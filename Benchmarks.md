@@ -14,8 +14,14 @@
 - LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
   + https://arxiv.org/abs/2503.11082
 
+
 - Medical Hallucination in Foundation Models and Their Impact on Healthcare
   + https://arxiv.org/abs/2503.05777
+
+
+- National Aeronautics and Space Administration (NASA)
+  + Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments (March 1, 2025)
+    + https://ntrs.nasa.gov/citations/20250001849
 
 
 
