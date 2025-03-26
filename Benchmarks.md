@@ -19,6 +19,13 @@
   + https://arxiv.org/abs/2503.05777
 
 
+- ARC-AGI-2
+  + https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
+  + https://arcprize.org/competition
+  + https://arcprize.org/leaderboard
+  + [2025-03-25 LLMs Hit a New Low on ARC-AGI-2 Benchmark, Pure LLMs Score 0%](https://analyticsindiamag.com/ai-news-updates/llms-hit-a-new-low-on-arc-agi-2-benchmark-pure-llms-score-0/)
+ 
+
 - National Aeronautics and Space Administration (NASA)
   + Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments (March 1, 2025)
     + https://ntrs.nasa.gov/citations/20250001849
