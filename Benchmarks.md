@@ -1,15 +1,26 @@
 
 # AI Benchmarks
 
+## Dashboards & Leaderboards
+
+- https://artificialanalysis.ai/
+
+- https://www.swebench.com/#verified
+
+- https://arcprize.org/leaderboard
+
+
 ## Papers
 
 - SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
   + https://arxiv.org/abs/2502.12115
+  + https://openai.com/index/swe-lancer/
+  + https://github.com/openai/SWELancer-Benchmark
 
 
 - SWE-bench
-  + https://www.swebench.com/#verified
   + [SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2023, last revised 11 Nov 2024 (this version, v3)]](https://arxiv.org/abs/2310.06770)
+  + https://www.swebench.com/
 
 
 
