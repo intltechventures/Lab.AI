@@ -9,6 +9,10 @@
 
 - https://arcprize.org/leaderboard
 
+- Hughes Hallucination Evaluation Mode (HHEM)
+  - https://github.com/vectara/hallucination-leaderboard
+  - https://huggingface.co/spaces/vectara/leaderboard
+
 
 ## Papers
 
