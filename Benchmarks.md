@@ -5,13 +5,23 @@
 
 - https://artificialanalysis.ai/
 
+
 - https://www.swebench.com/#verified
+
 
 - https://arcprize.org/leaderboard
 
+
 - Hughes Hallucination Evaluation Mode (HHEM)
-  - https://github.com/vectara/hallucination-leaderboard
-  - https://huggingface.co/spaces/vectara/leaderboard
+  + https://github.com/vectara/hallucination-leaderboard
+  + https://huggingface.co/spaces/vectara/leaderboard
+
+
+- Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots
+  + https://lmarena.ai/?leaderboard
+    * "Chatbot Arena is an open platform for crowdsourced AI benchmarking, developed by researchers at UC Berkeley SkyLab and LMArena. With over 1,000,000 user votes, the platform ranks best LLM and AI chatbots using the Bradley-Terry model to generate live leaderboards"
+    * Paper: [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)
+    * https://en.wikipedia.org/wiki/Elo_rating_system
 
 
 ## Papers
