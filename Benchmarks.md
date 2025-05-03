@@ -78,6 +78,13 @@
   + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
 
 
+- Self-Consuming Generative Models Go MAD
+  + https://arxiv.org/abs/2307.01850
+
+
+- The Curse of Recursion: Training on Generated Data Makes Models Forget
+  + https://arxiv.org/abs/2305.17493
+
 
 ## Articles
 
@@ -104,4 +111,22 @@
 
 - OpenAI’s new reasoning AI models hallucinate more
   + https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
+
+
+- OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
+  + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
+
+
+- Cursor AI's Own Support Bot Hallucinated Its Usage Policy
+  + https://www.theregister.com/2025/04/18/cursor_ai_support_bot_lies/
+
+
+
+- A 2023 study from Stanford and the University of Toronto found that recursive training leads to "irreversible performance decay" over generations.
+  + Shumailov et al. (2023) — "The Curse of Recursion: Training on Generated Data Creates Model Collapse" (Stanford, Toronto, Rice University)
+  + https://arxiv.org/abs/2305.17493
+  + https://www.linkedin.com/posts/alshalloway_are-we-teaching-the-internet-to-eat-itself-activity-7322050576710565888-Iu2S
+  + https://clairva.ai/journal/guarding-future-ai-authenticated-knowledge
+  + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
+
 
