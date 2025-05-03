@@ -102,4 +102,6 @@
   + https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
 
+- OpenAI’s new reasoning AI models hallucinate more
+  + https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
 
