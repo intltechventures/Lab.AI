@@ -26,6 +26,14 @@
 
 ## Papers
 
+- The Leaderboard Illusion
+  + https://arxiv.org/abs/2504.20879
+
+
+- Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
+  + https://arxiv.org/abs/2403.04132
+
+
 - SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
   + https://arxiv.org/abs/2502.12115
   + https://openai.com/index/swe-lancer/
@@ -57,6 +65,41 @@
   + Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments (March 1, 2025)
     + https://ntrs.nasa.gov/citations/20250001849
 
+
+- Hallucination is Inevitable: An Innate Limitation of Large Language Models
+  + https://arxiv.org/abs/2401.11817
+
+
+- AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents
+  + https://arxiv.org/abs/2409.09013
+
+
+- When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
+  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
+
+
+
+## Articles
+
+- The Illusion of Understanding
+  + https://www.linkedin.com/pulse/illusion-understanding-ivo-boniolo-7fbcf/
+
+
+- The Nuremberg Defense of AI
+  + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
+
+
+- Novel Universal Bypass for All Major LLMs
+  + The Policy Puppetry Prompt Injection Technique
+  + https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
+  
+
+- A Comprehensive Guide to LLM Temperature
+  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f
+
+
+- AI models routinely lie when honesty conflicts with their goals
+  + https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
 
 
