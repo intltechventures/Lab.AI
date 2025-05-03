@@ -54,6 +54,10 @@
   + https://arxiv.org/abs/2503.05777
 
 
+- ChatGPT is bullshit
+  + https://link.springer.com/article/10.1007/s10676-024-09775-5
+
+
 - ARC-AGI-2
   + https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
   + https://arcprize.org/competition
@@ -72,7 +76,18 @@
 
 - AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents
   + https://arxiv.org/abs/2409.09013
+  + AI models routinely lie when honesty conflicts with their goals
+	* https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
+
+- When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
+  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
+  + Sycophancy in GPT-4o: What happened and what we’re doing about it
+	* https://openai.com/index/sycophancy-in-gpt-4o/
+
+
+- We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
+  + https://arxiv.org/abs/2406.10279
 
 - When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
   + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
@@ -84,6 +99,16 @@
 
 - The Curse of Recursion: Training on Generated Data Makes Models Forget
   + https://arxiv.org/abs/2305.17493
+
+
+- TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks (December 2024)
+  + https://arxiv.org/abs/2412.14161
+  + https://the-agent-company.com/
+  + Professors Staffed a Fake Company Entirely With AI Agents, and You'll Never Guess What Happened
+    * https://futurism.com/professors-company-ai-agents
+  + Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.
+	* https://tech.yahoo.com/ai/articles/next-assignment-babysitting-ai-081502817.html
+
 
 
 ## Articles
@@ -109,6 +134,10 @@
   + https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
 
+- AI Hallucinations Create “Slopsquatting” Supply Chain Threat
+  + https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/
+
+
 - OpenAI’s new reasoning AI models hallucinate more
   + https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
 
@@ -130,3 +159,13 @@
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
 
+- Generative AI doesn’t copy art, it ‘clones’ the artisans — cheaply
+  + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
+
+
+- The Nuremberg Defense of AI
+  + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
+
+
+- A Comprehensive Guide to LLM Temperature 
+  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f  
