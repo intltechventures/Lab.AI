@@ -168,4 +168,20 @@
 
 
 - A Comprehensive Guide to LLM Temperature 
-  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f  
+  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f 
+
+
+## Noteworthy LinkedIn Posts
+
+- Stephen Wolfram:
+  + Re: Hallucinations...
+  + https://www.linkedin.com/posts/stephenwolfram_what-do-you-call-it-when-you-believe-something-activity-7324178239667539968-GjHi/
+    * "It just happened to me 🤨. The paper-length math looked convincing (well, after I told the LLM to fix some mistakes) ... and the references (including to my own writings!) were so plausible I started to look them up. But oops 🫠"
+
+
+- Andrew Nicholson:
+  + Re: Hallucinations...
+  + https://www.linkedin.com/feed/update/urn:li:activity:7323274966873931777/
+    * "I asked ChatGPT to research 50 companies, and provide a summary for each of their recent achievements, citing sources."
+    * "50 achievements came back, alongside links to source webpages."
+    * "Each and every one returned a 404 page not found error. ChatGPT had made up ALL the links."
