@@ -1,5 +1,5 @@
 
-# AI Benchmarks
+# AI Citations
 
 ## Dashboards & Leaderboards
 
@@ -89,6 +89,7 @@
 - We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
   + https://arxiv.org/abs/2406.10279
 
+
 - When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
   + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
 
@@ -108,6 +109,14 @@
     * https://futurism.com/professors-company-ai-agents
   + Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.
 	* https://tech.yahoo.com/ai/articles/next-assignment-babysitting-ai-081502817.html
+
+
+- Towards Understanding Sycophancy in Language Models
+  + https://arxiv.org/abs/2310.13548
+
+
+- (Im)possibility of Automated Hallucination Detection in Large Language Models
+  + https://www.arxiv.org/abs/2504.17004
 
 
 
@@ -150,7 +159,6 @@
   + https://www.theregister.com/2025/04/18/cursor_ai_support_bot_lies/
 
 
-
 - A 2023 study from Stanford and the University of Toronto found that recursive training leads to "irreversible performance decay" over generations.
   + Shumailov et al. (2023) — "The Curse of Recursion: Training on Generated Data Creates Model Collapse" (Stanford, Toronto, Rice University)
   + https://arxiv.org/abs/2305.17493
@@ -162,13 +170,6 @@
 - Generative AI doesn’t copy art, it ‘clones’ the artisans — cheaply
   + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
 
-
-- The Nuremberg Defense of AI
-  + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
-
-
-- A Comprehensive Guide to LLM Temperature 
-  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f 
 
 
 ## Noteworthy LinkedIn Posts
