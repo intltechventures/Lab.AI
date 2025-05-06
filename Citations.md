@@ -171,6 +171,8 @@
   + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
 
 
+- The Atlantic: The Unbelievable Scale of AI’s Pirated-Books Problem
+  + https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
 
 ## Noteworthy LinkedIn Posts
 
