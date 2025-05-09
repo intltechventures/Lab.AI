@@ -1,6 +1,17 @@
 
 # AI Citations
 
+## References 
+
+- https://en.wikipedia.org/wiki/AI_alignment
+
+- https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+
+- https://en.wikipedia.org/wiki/Instrumental_convergence
+
+- https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
+
+
 ## Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
@@ -58,6 +69,14 @@
   + https://link.springer.com/article/10.1007/s10676-024-09775-5
 
 
+- Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It
+  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
+    * "As Judea Pearl sees it, the underlying reason for such mistakes is that '... all the impressive achievements of deep learning amount to just curve fitting.'"
+    * "Gary Marcus and Ernest Davis in a recent piece for the New York Times: 'we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets—often using an approach known as ‘Deep Learning’—and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space, and causality.`"
+    * "In this paper, foregrounding what in 1949 Gilbert Ryle termed 'a category mistake', I will offer an alternative explanation for AI errors; it is not so much that AI machinery cannot 'grasp' causality, but that AI machinery (qua computation) cannot understand anything at all."
+  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
+
+
 - ARC-AGI-2
   + https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
   + https://arcprize.org/competition
@@ -74,12 +93,20 @@
   + https://arxiv.org/abs/2401.11817
 
 
+- TruthfulQA: Measuring How Models Mimic Human Falsehoods
+  + https://arxiv.org/abs/2109.07958
+  + https://github.com/sylinrl/TruthfulQA
+    * "We have created a new and improved multiple-choice version of TruthfulQA. We recommend this new version over the original multiple-choice versions (called MC1 and MC2)."  
+  + https://huggingface.co/datasets/domenicrosati/TruthfulQA
+  + https://www.deepeval.com/docs/benchmarks-truthful-qa
+
+
 - AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents
   + https://arxiv.org/abs/2409.09013
   + AI models routinely lie when honesty conflicts with their goals
 	* https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
-
+  
 - When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
   + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
   + Sycophancy in GPT-4o: What happened and what we’re doing about it
@@ -109,6 +136,13 @@
     * https://futurism.com/professors-company-ai-agents
   + Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.
 	* https://tech.yahoo.com/ai/articles/next-assignment-babysitting-ai-081502817.html
+
+
+- NoLiMa: Long-Context Evaluation Beyond Literal Matching
+  + https://arxiv.org/abs/2502.05167
+    * "We evaluate 12 popular LLMs that claim to support contexts of at least 128K tokens. While they perform well in short contexts (<1K), performance degrades significantly as context length increases. At 32K, for instance, 10 models drop below 50% of their strong short-length baselines. Even GPT-4o, one of the top-performing exceptions, experiences a reduction from an almost-perfect baseline of 99.3% to 69.7%."
+  + https://huggingface.co/datasets/amodaresi/NoLiMa
+  + https://www.reddit.com/r/LocalLLaMA/comments/1io3hn2/nolima_longcontext_evaluation_beyond_literal/
 
 
 - Towards Understanding Sycophancy in Language Models
