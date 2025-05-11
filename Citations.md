@@ -93,6 +93,10 @@
   + https://arxiv.org/abs/2401.11817
 
 
+- LLMs Will Always Hallucinate, and We Need to Live With This
+  + https://arxiv.org/abs/2409.05746
+
+
 - TruthfulQA: Measuring How Models Mimic Human Falsehoods
   + https://arxiv.org/abs/2109.07958
   + https://github.com/sylinrl/TruthfulQA
