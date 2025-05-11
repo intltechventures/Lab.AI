@@ -1,6 +1,24 @@
 
 # AI Citations
 
+## Remember
+
+- It hallucinates because of the underlying LLM architecture.
+- It is performing per its design.
+
+- It does not think.
+- It does not reason.
+- It is a stochastic parrot.
+- It has no capability to determine right vs wrong.
+- It has no capability to determine what is a lie vs the truth.
+- It has no capability to determine correctness.
+- It doesn't actually understand the gibberish it spits out.
+- It has no world model.
+
+- It is just picking the next token, based on probability - not correctness.
+
+
+
 ## References 
 
 - https://en.wikipedia.org/wiki/AI_alignment
