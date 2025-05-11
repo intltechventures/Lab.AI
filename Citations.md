@@ -167,6 +167,10 @@
   + https://www.reddit.com/r/LocalLLaMA/comments/1io3hn2/nolima_longcontext_evaluation_beyond_literal/
 
 
+- GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
+  + https://arxiv.org/abs/2410.05229
+
+
 - Towards Understanding Sycophancy in Language Models
   + https://arxiv.org/abs/2310.13548
 
