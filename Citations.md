@@ -235,6 +235,10 @@
   + https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
 
 
+- Leading AI models accused of cheating benchmark tests, Able to regurgitate test sets verbatim
+  + https://www.computing.co.uk/news/2025/ai/ai-models-cheating-benchmark-tests
+
+
 ## Noteworthy LinkedIn Posts
 
 - Stephen Wolfram:
