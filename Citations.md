@@ -234,6 +234,7 @@
 - The Atlantic: The Unbelievable Scale of AI’s Pirated-Books Problem
   + https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
 
+
 ## Noteworthy LinkedIn Posts
 
 - Stephen Wolfram:
@@ -248,3 +249,10 @@
     * "I asked ChatGPT to research 50 companies, and provide a summary for each of their recent achievements, citing sources."
     * "50 achievements came back, alongside links to source webpages."
     * "Each and every one returned a 404 page not found error. ChatGPT had made up ALL the links."
+
+
+- Maria Sukhareva: “but what’s the use case for ‘r’s in strawberry”    
+  + https://www.linkedin.com/posts/msukhareva_ai-tech-activity-7327292006987104257-5PdO
+
+
+
