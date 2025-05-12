@@ -137,6 +137,9 @@
 
 - We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
   + https://arxiv.org/abs/2406.10279
+  + aka "Slopsquatting"
+  + AI-generated code could be a disaster for the software supply chain. Here’s why.
+    * https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/
 
 
 - When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
