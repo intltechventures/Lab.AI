@@ -179,6 +179,9 @@
   + https://www.arxiv.org/abs/2504.17004
 
 
+- Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates  
+  + https://arxiv.org/abs/2410.07137
+
 
 ## Articles
 
@@ -237,6 +240,10 @@
 
 - Leading AI models accused of cheating benchmark tests, Able to regurgitate test sets verbatim
   + https://www.computing.co.uk/news/2025/ai/ai-models-cheating-benchmark-tests
+  + https://www.thestack.technology/ai-benchmarking-scandal-were-top-models-caught-gaming-the-system/
+  + https://gizmodo.com/meta-cheated-on-ai-benchmarks-and-its-a-glimpse-into-a-new-golden-age-2000586433
+  + https://whoisnnamdi.substack.com/p/ai-benchmarking-broken
+
 
 
 ## Noteworthy LinkedIn Posts
