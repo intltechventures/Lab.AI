@@ -199,8 +199,10 @@
 
 
 - Generalization bias in large language model summarization of scientific research
+  + https://arxiv.org/abs/2504.00025
   + https://royalsocietypublishing.org/doi/10.1098/rsos.241776
   + https://doi.org/10.1098/rsos.241776
+
 
 
 
