@@ -198,6 +198,12 @@
   + https://arxiv.org/abs/2505.10559
 
 
+- Generalization bias in large language model summarization of scientific research
+  + https://royalsocietypublishing.org/doi/10.1098/rsos.241776
+  + https://doi.org/10.1098/rsos.241776
+
+
+
 ## Articles
 
 - The Illusion of Understanding
