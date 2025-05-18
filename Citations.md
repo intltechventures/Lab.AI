@@ -1,7 +1,7 @@
 
 # LLM/GenAI Citations
 
-- This document is intended as s uggested background reading punchlist...to help teams quickly develop an understanding of the risks associated with usage of LLMs/GenAI tools.
+- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks associated with usage of LLMs/GenAI tools.
 - __Status__: ```Work-In-Progress```
 
 
