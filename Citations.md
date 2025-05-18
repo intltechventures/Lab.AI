@@ -182,8 +182,16 @@
   + https://www.arxiv.org/abs/2504.17004
 
 
+- LLMs Get Lost In Multi-Turn Conversation
+  + https://arxiv.org/abs/2505.06120
+
+
 - Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates  
   + https://arxiv.org/abs/2410.07137
+
+
+- Neural Thermodynamic Laws for Large Language Model Training
+  + https://arxiv.org/abs/2505.10559
 
 
 ## Articles
@@ -246,6 +254,21 @@
   + https://www.thestack.technology/ai-benchmarking-scandal-were-top-models-caught-gaming-the-system/
   + https://gizmodo.com/meta-cheated-on-ai-benchmarks-and-its-a-glimpse-into-a-new-golden-age-2000586433
   + https://whoisnnamdi.substack.com/p/ai-benchmarking-broken
+
+
+## Interesting YouTube Talks
+
+- Roger Penrose 
+  + Gödel's theorem debunks the most important AI myth. AI will not be conscious | Roger Penrose (Nobel)
+    * https://www.youtube.com/watch?v=biUfMZ2dts8
+
+
+- John Searle
+  + https://en.wikipedia.org/wiki/John_Searle
+  + Consciousness in Artificial Intelligence | John Searle | Talks at Google
+    * https://www.youtube.com/watch?v=rHKwIYsPXLg
+
+
 
 
 
