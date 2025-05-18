@@ -1,5 +1,9 @@
 
-# AI Citations
+# LLM/GenAI Citations
+
+- This document is intended as suggested background reading to help teams quickly under the risks of LLMs/GenAI.
+- __Status__: ```Work-In-Progress```
+
 
 ## Remember
 
