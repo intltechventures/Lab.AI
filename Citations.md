@@ -182,6 +182,12 @@
   + https://arxiv.org/abs/2310.13548
 
 
+- Sycophancy to subterfuge: Investigating reward-tampering in large language models. 
+  + https://arxiv.org/abs/2406.10162
+  + System Card: Claude Opus 4 & Claude Sonnet 4 (see pages 19-20, "re: Self-preservation attempts in extreme circumstances:")
+    * https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf
+
+
 - (Im)possibility of Automated Hallucination Detection in Large Language Models
   + https://www.arxiv.org/abs/2504.17004
 
