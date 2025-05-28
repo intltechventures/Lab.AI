@@ -33,6 +33,10 @@
 
 - https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
+- "An AI hallucination 'occurs when an AI database generates fake sources of information,'... See Wadsworth v. Walmart Inc., 348 F.R.D. 489, 493 (D. Wyo. 2025)."
+  + https://www.courtlistener.com/opinion/10591984/garner-v-kadince/
+    * See Background, item 2.
+
 
 ## Dashboards & Leaderboards
 
@@ -272,6 +276,17 @@
   + https://www.thestack.technology/ai-benchmarking-scandal-were-top-models-caught-gaming-the-system/
   + https://gizmodo.com/meta-cheated-on-ai-benchmarks-and-its-a-glimpse-into-a-new-golden-age-2000586433
   + https://whoisnnamdi.substack.com/p/ai-benchmarking-broken
+
+
+- David T. Laton, A Cautionary Tale of AI As A Research Tool for Lawyers, Prac. Law. 42, 43 (2024) (“ChatGPT currently lacks the ability to produce reliable and accurate results when given a legal query.”).
+  + https://files.ali-cle.org/thumbs/datastorage/lacidoirep/articles/TPL2402_Laton_thumb.pdf
+
+- Sarah Starnes, Artificial Intelligence and Ethical Considerations for the New Legal Learner: An Annotated BibliographyLearner: An Annotated Bibliography, Akron Law ReviewAkron Law Review, Volume 57, Issue 3, Symposium Issue, Article 4
+  + https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=2591&context=akronlawreview
+
+- The Ethics of Artificial Intelligence in the Practice of Law, TENTH ANNUAL WESTERN DISTRICT OF VIRGINIA BANKRUPTCY CONFERENCE, ROANOKE, VIRGINIA, JUNE 14, 2024
+  + https://www.vawb.uscourts.gov/sites/default/files/conf%20materials/2024/02%20-%20Ethics%20Panel%20-%20AI.pdf
+
 
 
 ## Interesting YouTube Talks
