@@ -288,6 +288,19 @@
   + https://www.vawb.uscourts.gov/sites/default/files/conf%20materials/2024/02%20-%20Ethics%20Panel%20-%20AI.pdf
 
 
+### Model Collapse
+
+- AI Models Show Signs of Falling Apart as They Ingest More AI-Generated Data
+  + https://futurism.com/ai-models-falling-apart
+
+
+- Some signs of AI model collapse begin to reveal themselves
+  + https://www.theregister.com/2025/05/27/opinion_column_ai_model_collapse/
+
+
+- https://www.ibm.com/think/topics/model-collapse
+
+
 
 ## Interesting YouTube Talks
 
