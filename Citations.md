@@ -226,17 +226,24 @@
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
 
 
+### LLM Prompt Injection Risks
+
 - Novel Universal Bypass for All Major LLMs
   + The Policy Puppetry Prompt Injection Technique
   + https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
   
 
-- A Comprehensive Guide to LLM Temperature
-  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f
-
+### LLM Subterfuge Risks
 
 - AI models routinely lie when honesty conflicts with their goals
   + https://www.theregister.com/2025/05/01/ai_models_lie_research/
+
+
+
+### LLM Hallucination Risks
+ 
+- A Comprehensive Guide to LLM Temperature
+  + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f
 
 
 - AI Hallucinations Create “Slopsquatting” Supply Chain Threat
@@ -245,10 +252,6 @@
 
 - OpenAI’s new reasoning AI models hallucinate more
   + https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
-
-
-- OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
-  + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
 
 
 - Cursor AI's Own Support Bot Hallucinated Its Usage Policy
@@ -263,13 +266,25 @@
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
 
-- Generative AI doesn’t copy art, it ‘clones’ the artisans — cheaply
-  + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
+### LLM Safety
+
+- OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
+  + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
+
+
+
+### Copyright Theft
 
 
 - The Atlantic: The Unbelievable Scale of AI’s Pirated-Books Problem
   + https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
 
+- Generative AI doesn’t copy art, it ‘clones’ the artisans — cheaply
+  + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
+
+
+
+### LLM Cheating on Benchmarks
 
 - Leading AI models accused of cheating benchmark tests, Able to regurgitate test sets verbatim
   + https://www.computing.co.uk/news/2025/ai/ai-models-cheating-benchmark-tests
@@ -277,6 +292,8 @@
   + https://gizmodo.com/meta-cheated-on-ai-benchmarks-and-its-a-glimpse-into-a-new-golden-age-2000586433
   + https://whoisnnamdi.substack.com/p/ai-benchmarking-broken
 
+
+### Legal and Ethical Risks
 
 - David T. Laton, A Cautionary Tale of AI As A Research Tool for Lawyers, Prac. Law. 42, 43 (2024) (“ChatGPT currently lacks the ability to produce reliable and accurate results when given a legal query.”).
   + https://files.ali-cle.org/thumbs/datastorage/lacidoirep/articles/TPL2402_Laton_thumb.pdf
@@ -286,6 +303,7 @@
 
 - The Ethics of Artificial Intelligence in the Practice of Law, TENTH ANNUAL WESTERN DISTRICT OF VIRGINIA BANKRUPTCY CONFERENCE, ROANOKE, VIRGINIA, JUNE 14, 2024
   + https://www.vawb.uscourts.gov/sites/default/files/conf%20materials/2024/02%20-%20Ethics%20Panel%20-%20AI.pdf
+
 
 
 ### Model Collapse
@@ -299,6 +317,14 @@
 
 
 - https://www.ibm.com/think/topics/model-collapse
+
+
+### RAG Risks
+
+- RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models
+  + Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+  + https://aclanthology.org/2025.naacl-long.281/
+
 
 
 
