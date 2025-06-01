@@ -389,7 +389,7 @@
 
 - [Reid Blackman](https://www.linkedin.com/in/reid-blackman/): 
   + https://www.linkedin.com/posts/reid-blackman_ai-ethics-aiethics-activity-7272267739434561538-Ep5a
-    * "the deliberation problem"
+    * "This is maybe the biggest AI ethical risk precisely because it’s the most difficult to digest. I call it 'the deliberation problem.'"
     * "Because LLMs hallucinate, users have to do their due diligence. They need to make sure the outputs are legit. But one thing users can do is ask the LLM to explain why it created the output that it did. And it will provide one!"
     * "Actually, no it won’t! It will instead confidently provide an explanation for its advice or recommendations or whatever other output it gives but *it didn’t base its outputs on reasons or evidence.*"
     * "To the extent that users don’t really incorporate this into how they treat LLMs, they’ll get the false impression that they did their due diligence when, in fact, they’ve only slipped further into the deception."
