@@ -219,6 +219,13 @@
   + https://doi.org/10.1098/rsos.241776
 
 
+### Agentic AI Risks
+
+- Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents
+  + https://arxiv.org/abs/2502.15840
+  + 'Failure Imminent': When LLMs In a Long-Running Vending Business Simulation Went Berserk
+	  * https://slashdot.org/story/25/05/31/2112240/failure-imminent-when-llms-in-a-long-running-vending-business-simulation-went-berserk
+
 
 
 ## Articles
@@ -252,7 +259,7 @@
 
 
 - AI Hallucinations Create “Slopsquatting” Supply Chain Threat
-  + https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/
++ https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/
 
 
 - OpenAI’s new reasoning AI models hallucinate more
@@ -271,7 +278,7 @@
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
 
-### LLM Safety
+### LLM Safety Risks
 
 - OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
   + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
@@ -289,7 +296,7 @@
 
 
 
-### LLM Cheating on Benchmarks
+### LLM Cheating on Benchmarks Risks
 
 - Leading AI models accused of cheating benchmark tests, Able to regurgitate test sets verbatim
   + https://www.computing.co.uk/news/2025/ai/ai-models-cheating-benchmark-tests
@@ -311,7 +318,7 @@
 
 
 
-### Model Collapse
+### Model Collapse Risks
 
 - AI Models Show Signs of Falling Apart as They Ingest More AI-Generated Data
   + https://futurism.com/ai-models-falling-apart
@@ -332,7 +339,6 @@
 
 
 
-
 ## Interesting YouTube Talks
 
 - Roger Penrose 
@@ -344,8 +350,6 @@
   + https://en.wikipedia.org/wiki/John_Searle
   + Consciousness in Artificial Intelligence | John Searle | Talks at Google
     * https://www.youtube.com/watch?v=rHKwIYsPXLg
-
-
 
 
 
@@ -367,6 +371,14 @@
 
 - Maria Sukhareva: “but what’s the use case for ‘r’s in strawberry”    
   + https://www.linkedin.com/posts/msukhareva_ai-tech-activity-7327292006987104257-5PdO
+
+
+- Mayuresh Soni
+  + https://www.linkedin.com/posts/reid-blackman_ai-ethics-aiethics-activity-7272267739434561538-Ep5a
+    * "the deliberation problem"
+    * "Because LLMs hallucinate, users have to do their due diligence. They need to make sure the outputs are legit. But one thing users can do is ask the LLM to explain why it created the output that it did. And it will provide one!"
+    * "Actually, no it won’t! It will instead confidently provide an explanation for its advice or recommendations or whatever other output it gives but *it didn’t base its outputs on reasons or evidence.*"
+    * "To the extent that users don’t really incorporate this into how they treat LLMs, they’ll get the false impression that they did their due diligence when, in fact, they’ve only slipped further into the deception."
 
 
 
