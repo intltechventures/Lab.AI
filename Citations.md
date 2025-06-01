@@ -374,6 +374,20 @@
 
 
 - [Mayuresh Soni](https://www.linkedin.com/in/mayuresh-soni-9b585117/):
+  + https://www.linkedin.com/posts/mayuresh-soni-9b585117_i-built-a-poc-in-a-few-hours-using-firebase-activity-7334130064436965377-zKdM
+    * "When the project gets big, AI starts breaking down — even with great prompts:"
+      * "It forgets the context"
+      * "It modifies code unpredictably"
+      * "It struggles with large files and structured repos"
+    * "It doesn’t 'think' in production-grade architecture."
+    * "The problem is that AI tools like Cursor were trained to complete code — not to understand systems."
+    * "They don’t know why that module exists."
+    * "They don’t preserve architectural intent."
+    * "They hallucinate when the codebase is layered."
+    * "And worst of all, they don’t care if they break something."
+
+
+- [Reid Blackman](https://www.linkedin.com/in/reid-blackman/): 
   + https://www.linkedin.com/posts/reid-blackman_ai-ethics-aiethics-activity-7272267739434561538-Ep5a
     * "the deliberation problem"
     * "Because LLMs hallucinate, users have to do their due diligence. They need to make sure the outputs are legit. But one thing users can do is ask the LLM to explain why it created the output that it did. And it will provide one!"
