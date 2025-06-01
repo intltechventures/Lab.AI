@@ -355,25 +355,25 @@
 
 ## Noteworthy LinkedIn Posts
 
-- Stephen Wolfram:
+- [Stephen Wolfram](https://www.linkedin.com/in/stephenwolfram/):
   + Re: Hallucinations...
   + https://www.linkedin.com/posts/stephenwolfram_what-do-you-call-it-when-you-believe-something-activity-7324178239667539968-GjHi/
     * "It just happened to me 🤨. The paper-length math looked convincing (well, after I told the LLM to fix some mistakes) ... and the references (including to my own writings!) were so plausible I started to look them up. But oops 🫠"
 
 
-- Andrew Nicholson:
-  + Re: Hallucinations...
-  + https://www.linkedin.com/feed/update/urn:li:activity:7323274966873931777/
+- [Andrew Nicholson](https://www.linkedin.com/in/digitalmarketingdiva/):
+  + https://www.linkedin.com/feed/update/urn:li:activity:7323274966873931777/    
     * "I asked ChatGPT to research 50 companies, and provide a summary for each of their recent achievements, citing sources."
     * "50 achievements came back, alongside links to source webpages."
     * "Each and every one returned a 404 page not found error. ChatGPT had made up ALL the links."
 
 
-- Maria Sukhareva: “but what’s the use case for ‘r’s in strawberry”    
+- [Maria Sukhareva](https://www.linkedin.com/in/msukhareva/): 
   + https://www.linkedin.com/posts/msukhareva_ai-tech-activity-7327292006987104257-5PdO
+    * “but what’s the use case for ‘r’s in strawberry”    
 
 
-- Mayuresh Soni
+- [Mayuresh Soni](https://www.linkedin.com/in/mayuresh-soni-9b585117/):
   + https://www.linkedin.com/posts/reid-blackman_ai-ethics-aiethics-activity-7272267739434561538-Ep5a
     * "the deliberation problem"
     * "Because LLMs hallucinate, users have to do their due diligence. They need to make sure the outputs are legit. But one thing users can do is ask the LLM to explain why it created the output that it did. And it will provide one!"
