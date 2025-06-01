@@ -25,6 +25,8 @@
 
 ## References 
 
+- https://en.wikipedia.org/wiki/Stochastic
+
 - https://en.wikipedia.org/wiki/AI_alignment
 
 - https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
@@ -59,6 +61,9 @@
     * "Chatbot Arena is an open platform for crowdsourced AI benchmarking, developed by researchers at UC Berkeley SkyLab and LMArena. With over 1,000,000 user votes, the platform ranks best LLM and AI chatbots using the Bradley-Terry model to generate live leaderboards"
     * Paper: [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)
     * https://en.wikipedia.org/wiki/Elo_rating_system
+
+
+- https://www.wolfram.com/llm-benchmarking-project/
 
 
 ## Papers
