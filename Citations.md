@@ -68,6 +68,10 @@
 
 ## Papers
 
+- AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis
+  + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135645
+
+
 - The Leaderboard Illusion
   + https://arxiv.org/abs/2504.20879
 
@@ -94,6 +98,10 @@
 
 - Medical Hallucination in Foundation Models and Their Impact on Healthcare
   + https://arxiv.org/abs/2503.05777
+
+
+- Global Health in the Age of AI: Charting a Course for Ethical Implementation and Societal Benefit
+  + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217060
 
 
 - ChatGPT is bullshit
