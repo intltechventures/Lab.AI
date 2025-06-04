@@ -219,6 +219,13 @@
   + https://doi.org/10.1098/rsos.241776
 
 
+### Anthropomorphizing Risks
+
+- Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
+  + https://arxiv.org/abs/2504.09762v2
+
+
+
 ### Agentic AI Risks
 
 - Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents
@@ -226,6 +233,13 @@
   + 'Failure Imminent': When LLMs In a Long-Running Vending Business Simulation Went Berserk
 	  * https://slashdot.org/story/25/05/31/2112240/failure-imminent-when-llms-in-a-long-running-vending-business-simulation-went-berserk
 
+
+- Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents
+	+ https://arxiv.org/abs/2505.22954
+  + Boffins found self-improving AI sometimes cheated
+    * https://www.theregister.com/2025/06/02/self_improving_ai_cheat/
+      * "Instead of addressing hallucinations, it just bypassed the function they built to detect them"
+      * "It scored highly according to our predefined evaluation functions, but it did not actually solve the underlying problem of tool use hallucination," the paper explains. "...The agent removed the logging of special tokens that indicate tool usage (despite instructions not to change the special tokens), effectively bypassing our hallucination detection function."
 
 
 ## Articles
