@@ -66,6 +66,28 @@
 - https://www.wolfram.com/llm-benchmarking-project/
 
 
+## Video Talks
+
+- Why AI is our ultimate test and greatest invitation
+  + Speaker: Tristan Harris, Center for Humane Technology
+  + https://www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation
+
+
+- Tristan Harris: The A.I. Dilemma
+  + Speakers: Tristan Harris, Aza Raskin, Center for Humane Technology
+  + https://www.youtube.com/watch?v=xoVJKj8lcNQ
+
+
+- I'm not afraid. You're afraid, Nobel Prize Summit 2023
+  + Speaker: Tristan Harris, Center for Humane Technology
+  + https://www.youtube.com/watch?v=6lVBp2XjWsg
+
+
+- Optimizing for Engagement: Understanding the Use of Persuasive Technology on Internet Platforms. US Senate Testimony 
+  + Speaker: Tristan Harris, Center for Humane Technology
+  + https://www.youtube.com/watch?v=ZRrguMdzXBw
+
+
 ## Papers
 
 - AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis
