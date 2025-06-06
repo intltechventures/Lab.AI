@@ -309,6 +309,12 @@
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
 
 
+### On the Erroneous Assumption that Programmin is DEAD
+
+- Why kids still need to learn to code in the age of AI 
+  + https://www.raspberrypi.org/blog/why-kids-still-need-to-learn-to-code-in-the-age-of-ai/
+
+
 ### LLM Prompt Injection Risks
 
 - Novel Universal Bypass for All Major LLMs
