@@ -113,6 +113,9 @@
   + https://www.swebench.com/
 
 
+- RealHarm: A Collection of Real-World Language Model Application Failures
+  + https://arxiv.org/abs/2504.10277
+
 
 - LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
   + https://arxiv.org/abs/2503.11082
@@ -249,6 +252,24 @@
   + https://doi.org/10.1098/rsos.241776
 
 
+
+### Cybersecurity Risks
+
+- TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems
+  + https://arxiv.org/abs/2506.04133
+
+
+- https://cset.georgetown.edu/research-topic/cyberai/
+  + "CSET’s CyberAI Project focuses on the intersection of AI/ML and cybersecurity, including analysis of AI/ML’s potential uses in cyber operations, the potential failure modes of AI/ML applications for cyber, how AI/ML may amplify future disinformation campaigns, and geostrategic competition centered around cyber and AI/ML."
+
+
+- Adding Structure to AI Harm An Introduction to CSET's AI Harm Framework
+  + Center for SECURITY and EMERGING TECHNOLOGY (CSET)
+  + https://cset.georgetown.edu/
+  + https://cset.georgetown.edu/wp-content/uploads/20230022-Adding-structure-to-AI-Harm-FINAL.pdf
+
+
+
 ### Anthropomorphizing Risks
 
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
@@ -270,6 +291,12 @@
     * https://www.theregister.com/2025/06/02/self_improving_ai_cheat/
       * "Instead of addressing hallucinations, it just bypassed the function they built to detect them"
       * "It scored highly according to our predefined evaluation functions, but it did not actually solve the underlying problem of tool use hallucination," the paper explains. "...The agent removed the logging of special tokens that indicate tool usage (despite instructions not to change the special tokens), effectively bypassing our hallucination detection function."
+
+
+- Securing AI Agents with Information-Flow Control
+  + https://arxiv.org/abs/2505.23643
+    * https://github.com/microsoft/fides
+
 
 
 ## Articles
@@ -394,6 +421,21 @@
   + https://en.wikipedia.org/wiki/John_Searle
   + Consciousness in Artificial Intelligence | John Searle | Talks at Google
     * https://www.youtube.com/watch?v=rHKwIYsPXLg
+
+
+- Yann LeCun 
+  + https://en.wikipedia.org/wiki/Yann_LeCun
+  + Columbia Engineering, Lecture Series in AI: "How Could Machines Reach Human-Level Intelligence?” 
+    * https://www.youtube.com/watch?v=xL6Y0dpXEwc
+  + Big Technology Podcast: Why Can't AI Make Its Own Discoveries? — With Yann LeCun  
+    * https://www.youtube.com/watch?v=qvNCVYkHKfg
+  + AMS Josiah Willard Gibbs Lecture at the 2025 Joint Mathematics Meetings: "Mathematical Obstacles on the Way to Human-Level AI"
+    * https://www.youtube.com/watch?v=ETZfkkv6V7Y
+  + AI Action Summit 2025: The Shape of AI to Come!
+    * https://www.youtube.com/watch?v=xnFmnU0Pp-8
+  + NVIDIA GTC2025
+    * https://www.linkedin.com/posts/gabrielspmoreira_nvidia-gtc2025-activity-7307872305659965442-mzw8
+    * “I am not interested anymore in LLMs. They are just token generators and those are limited because tokens are in discrete space. I am more interested in next-gen model architectures, that should be able to do 4 things: understand physical world, have persistent memory and ultimately be more capable to plan and reason.” 
 
 
 
