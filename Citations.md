@@ -90,8 +90,16 @@
 
 ## Papers
 
+- The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
+  + https://machinelearning.apple.com/research/illusion-of-thinking
+
+
 - AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis
   + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135645
+
+
+- RealHarm: A Collection of Real-World Language Model Application Failures
+  + https://arxiv.org/abs/2504.10277
 
 
 - The Leaderboard Illusion
