@@ -260,6 +260,11 @@
   + https://doi.org/10.1098/rsos.241776
 
 
+- Extracting memorized pieces of (copyrighted) books from open-weight language models
+  + https://arxiv.org/abs/2505.12546
+  + Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book 
+    * https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent
+
 
 ### Cybersecurity Risks
 
@@ -376,9 +381,13 @@
 - The Atlantic: The Unbelievable Scale of AI’s Pirated-Books Problem
   + https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/
 
+
 - Generative AI doesn’t copy art, it ‘clones’ the artisans — cheaply
   + https://ea.rna.nl/2024/07/27/generative-ai-doesnt-copy-art-it-clones-the-artisans-cheaply/
 
+
+- Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book 
+  + https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent
 
 
 ### LLM Cheating on Benchmarks Risks
