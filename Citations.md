@@ -297,6 +297,7 @@
 
 ### Agentic AI Risks
 
+
 - Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents
   + https://arxiv.org/abs/2502.15840
   + 'Failure Imminent': When LLMs In a Long-Running Vending Business Simulation Went Berserk
@@ -315,6 +316,9 @@
   + https://arxiv.org/abs/2505.23643
     * https://github.com/microsoft/fides
 
+
+- The lethal trifecta for AI agents: private data, untrusted content, and external communication
+  + https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
 
 
 ## Articles
