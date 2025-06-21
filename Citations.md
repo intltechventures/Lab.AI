@@ -88,6 +88,19 @@
   + https://www.youtube.com/watch?v=ZRrguMdzXBw
 
 
+## Governance and Oversight Organizations
+
+- The Midas Project
+  + "The Midas Project is a watchdog collective of activists taking action to ensure that AI technology benefits everyone."
+  + https://www.themidasproject.com/
+
+
+- The Tech Oversight Project
+  + "The Tech Oversight Project is charged with holding Big Tech accountable for its anti-competitive and corrupting influence on our society and the levers of power."
+  + https://techoversight.org/
+  
+
+
 ## Papers
 
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
@@ -96,6 +109,13 @@
 
 - AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis
   + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135645
+
+
+- The OpenAI Files
+  + "The OpenAI Files is the most comprehensive collection to date of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI."
+  + https://www.openaifiles.org/
+  + https://www.openaifiles.org/vision-for-change
+
 
 
 - RealHarm: A Collection of Real-World Language Model Application Failures
