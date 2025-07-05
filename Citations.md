@@ -141,6 +141,11 @@
   + https://www.swebench.com/
 
 
+
+- Potemkin Understanding in Large Language Models
+  + https://lnkd.in/gsVeCdMS
+
+
 - RealHarm: A Collection of Real-World Language Model Application Failures
   + https://arxiv.org/abs/2504.10277
 
@@ -306,6 +311,8 @@
   + https://cset.georgetown.edu/
   + https://cset.georgetown.edu/wp-content/uploads/20230022-Adding-structure-to-AI-Harm-FINAL.pdf
 
+
+- 
 
 
 ### Anthropomorphizing Risks
