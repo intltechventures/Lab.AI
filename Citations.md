@@ -312,7 +312,10 @@
   + https://cset.georgetown.edu/wp-content/uploads/20230022-Adding-structure-to-AI-Harm-FINAL.pdf
 
 
-- 
+- InfoFlood: Jailbreaking Large Language Models with Information Overload
+  + https://arxiv.org/abs/2506.12274
+  + LLMs don’t read the danger in requests if you use enough big words.
+    * https://www.404media.co/researchers-jailbreak-ai-by-flooding-it-with-bullshit-jargon/
 
 
 ### Anthropomorphizing Risks
