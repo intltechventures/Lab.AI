@@ -361,6 +361,14 @@
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
 
 
+### On Whether LLMs are Sentient
+
+- Are LLMs starting to become sentient?
+  + https://garymarcus.substack.com/p/are-llms-starting-to-become-a-sentient
+  + A compassionate but skeptical letter that Douglas Hofstadter wrote to one of his readers
+  + [Douglas Richard Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) is an American cognitive and  computer scientist whose research includes concepts such as the sense of self in relation to the external world, consciousness, analogy-making, strange loops, artificial intelligence, and discovery in mathematics and physics.
+
+
 ### On the Erroneous Assumption that Programming is DEAD
 
 - Why kids still need to learn to code in the age of AI 
