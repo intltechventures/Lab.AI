@@ -143,7 +143,13 @@
 
 
 - Potemkin Understanding in Large Language Models
-  + https://lnkd.in/gsVeCdMS
+  + https://arxiv.org/abs/2506.21521
+
+
+
+- What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models
+  + https://arxiv.org/abs/2507.06952
+
 
 
 - RealHarm: A Collection of Real-World Language Model Application Failures
