@@ -40,6 +40,19 @@
     * See Background, item 2.
 
 
+
+## AI Ethis & Safety Reports
+
+- [Future of Life Institute](https://futureoflife.org/)
+  + https://futureoflife.org/about-us/our-people/
+  + https://futureoflife.org/about-us/finances/
+    * "FLI is a mission-driven nonprofit and continually aims to diversify its funding. Shortly after we were founded in 2014, Elon Musk funded the world’s first academic grant program in AI safety. Since those early days, we have received over 1,500 donations of various sizes from a wide variety of donors to fund our programs."
+    * "In 2021, computer programmer Vitalik Buterin provided FLI with a large and unconditional donation that in part serves as an endowment and helps to guarantee our independence."
+    * "With the exception of Jaan Tallinn, who has served on FLI’s Board of Directors since its founding, donors do not influence FLI’s positions. Vitalik Buterin, our largest donor by far, has no formal or informal role in our decision-making. FLI does not accept donations from Big Tech, or from companies seeking to build artificial general intelligence."
+  + [AI Safety Index, Summer 2025](https://futureoflife.org/wp-content/uploads/2025/07/FLI-AI-Safety-Index-Report-Summer-2025.pdf)
+
+
+
 ## Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
