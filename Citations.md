@@ -52,6 +52,13 @@
   + [AI Safety Index, Summer 2025](https://futureoflife.org/wp-content/uploads/2025/07/FLI-AI-Safety-Index-Report-Summer-2025.pdf)
 
 
+- [Wharton Generative AI Labs](https://gail.wharton.upenn.edu/)
+  + Call Me A Jerk: Persuading AI to Comply with Objectionable Requests
+    + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357179
+    + https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/
+    + https://www.geekwire.com/2025/sweet-talk-the-bots-new-research-shows-how-llms-respond-to-human-persuasion-tricks/
+
+
 
 ## Dashboards & Leaderboards
 
