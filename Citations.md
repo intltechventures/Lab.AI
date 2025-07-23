@@ -344,6 +344,8 @@
     * https://www.404media.co/researchers-jailbreak-ai-by-flooding-it-with-bullshit-jargon/
 
 
+
+
 ### Anthropomorphizing Risks
 
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
@@ -375,6 +377,16 @@
 
 - The lethal trifecta for AI agents: private data, untrusted content, and external communication
   + https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+
+
+
+### Bias in LLMs
+
+- Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models
+  + https://arxiv.org/abs/2506.10491
+  + [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
+
+
 
 
 ## Articles
