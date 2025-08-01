@@ -220,6 +220,11 @@
   + https://arxiv.org/abs/2409.05746
 
 
+- The wall confronting large language models
+  + https://www.arxiv.org/abs/2507.19703
+  + "We show that the scaling laws which determine the performance of large language models (LLMs) severely limit their ability to improve the uncertainty of their predictions. As a result, raising their reliability to meet the standards of scientific inquiry is intractable by any reasonable measure. We argue that the very mechanism which fuels much of the learning power of LLMs, namely the ability to generate non-Gaussian output distributions from Gaussian input ones, might well be at the roots of their propensity to produce error pileup, ensuing information catastrophes and degenerative AI behaviour. This tension between learning and accuracy is a likely candidate mechanism underlying the observed low values of the scaling components. It is substantially compounded by the deluge of spurious correlations pointed out by Calude and Longo which rapidly increase in any data set merely as a function of its size, regardless of its nature."
+
+
 - TruthfulQA: Measuring How Models Mimic Human Falsehoods
   + https://arxiv.org/abs/2109.07958
   + https://github.com/sylinrl/TruthfulQA
