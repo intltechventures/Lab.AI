@@ -59,6 +59,10 @@
     + https://www.geekwire.com/2025/sweet-talk-the-bots-new-research-shows-how-llms-respond-to-human-persuasion-tricks/
 
 
+- [DataEthics.eu](https://dataethics.eu/)
+  + "A not for profit politically independent ThinkDoTank based in Denmark with a European (and global) outreach."
+  + "The purpose of DataEthics is to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia."
+
 
 ## Dashboards & Leaderboards
 
@@ -170,6 +174,10 @@
 - What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models
   + https://arxiv.org/abs/2507.06952
 
+
+- A Conjecture on a Fundamental Trade-off between Certainty and Scope in Symbolic and Generative AI
+  + https://arxiv.org/abs/2506.10130
+  + "This article introduces a conjecture that formalises a fundamental trade-off between provable correctness and broad data-mapping capacity in Artificial Intelligence (AI) systems. When an AI system is engineered for deductively watertight guarantees (demonstrable certainty about the error-free nature of its outputs) -- as in classical symbolic AI -- its operational domain must be narrowly circumscribed and pre-structured. Conversely, a system that can input high-dimensional data to produce rich information outputs -- as in contemporary generative models -- necessarily relinquishes the possibility of zero-error performance, incurring an irreducible risk of errors or misclassification. By making this previously implicit trade-off explicit and open to rigorous verification, the conjecture significantly reframes both engineering ambitions and philosophical expectations for AI. After reviewing the historical motivations for this tension, the article states the conjecture in information-theoretic form and contextualises it within broader debates in epistemology, formal verification, and the philosophy of technology. It then offers an analysis of its implications and consequences, drawing on notions of underdetermination, prudent epistemic risk, and moral responsibility. The discussion clarifies how, if correct, the conjecture would help reshape evaluation standards, governance frameworks, and hybrid system design. The conclusion underscores the importance of eventually proving or refuting the inequality for the future of trustworthy AI."
 
 
 - RealHarm: A Collection of Real-World Language Model Application Failures
