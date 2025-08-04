@@ -531,6 +531,13 @@
 
 
 
+### MCP Risks
+
+- MCP Horror Stories: The Security Issues Threatening AI Infrastructure 
+  + https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/
+
+
+
 ## Interesting YouTube Talks
 
 - Roger Penrose 
