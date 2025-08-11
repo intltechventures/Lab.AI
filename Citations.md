@@ -41,7 +41,7 @@
 
 
 
-## AI Ethis & Safety Reports
+## AI Ethics & Safety Reports
 
 - [Future of Life Institute](https://futureoflife.org/)
   + https://futureoflife.org/about-us/our-people/
