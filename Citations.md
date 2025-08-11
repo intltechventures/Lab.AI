@@ -64,6 +64,7 @@
   + "The purpose of DataEthics is to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia."
 
 
+
 ## Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
@@ -141,6 +142,9 @@
   + https://www.openaifiles.org/vision-for-change
 
 
+- Identifying AI Hazards and Responsibility Gaps
+  + https://ieeexplore.ieee.org/ielx8/6287639/10820123/10930474.pdf
+
 
 - RealHarm: A Collection of Real-World Language Model Application Failures
   + https://arxiv.org/abs/2504.10277
@@ -164,6 +168,11 @@
   + [SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2023, last revised 11 Nov 2024 (this version, v3)]](https://arxiv.org/abs/2310.06770)
   + https://www.swebench.com/
 
+
+
+- Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens
+  + https://arxiv.org/abs/2508.01191
+  + "Chain-of-Thought (CoT) prompting has been shown to improve Large Language Model (LLM) performance on various tasks. With this approach, LLMs appear to produce human-like reasoning steps before providing answers (a.k.a., CoT reasoning), which often leads to the perception that they engage in deliberate inferential processes. However, some initial findings suggest that CoT reasoning may be more superficial than it appears, motivating us to explore further. In this paper, we study CoT reasoning via a data distribution lens and investigate if CoT reasoning reflects a structured inductive bias learned from in-distribution data, allowing the model to conditionally generate reasoning paths that approximate those seen during training. Thus, its effectiveness is fundamentally bounded by the degree of distribution discrepancy between the training data and the test queries. With this lens, we dissect CoT reasoning via three dimensions: task, length, and format. To investigate each dimension, we design DataAlchemy, an isolated and controlled environment to train LLMs from scratch and systematically probe them under various distribution conditions. Our results reveal that CoT reasoning is a brittle mirage that vanishes when it is pushed beyond training distributions. This work offers a deeper understanding of why and when CoT reasoning fails, emphasizing the ongoing challenge of achieving genuine and generalizable reasoning."
 
 
 - Potemkin Understanding in Large Language Models
@@ -412,6 +421,13 @@
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
 
 
+### Costs
+
+- Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
+  + https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
+
+
+
 ### On Whether LLMs are Sentient
 
 - Are LLMs starting to become sentient?
@@ -486,6 +502,11 @@
 
 - Meta's Llama 3.1 can recall 42 percent of the first Harry Potter book 
   + https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent
+
+
+- AI industry horrified to face largest copyright class action ever certified 
+  + https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/
+
 
 
 ### LLM Cheating on Benchmarks Risks
