@@ -344,7 +344,7 @@
     * https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent
 
 
-### Cybersecurity Risks
+### Cybersecurity & Privacy Risks
 
 - TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems
   + https://arxiv.org/abs/2506.04133
@@ -365,6 +365,13 @@
   + LLMs don’t read the danger in requests if you use enough big words.
     * https://www.404media.co/researchers-jailbreak-ai-by-flooding-it-with-bullshit-jargon/
 
+
+- Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
+  + https://arxiv.org/abs/2506.11680
+  + "LLM-based Conversational AIs (CAIs), also known as GenAI chatbots, like ChatGPT, are increasingly used across various domains, but they pose privacy risks, as users may disclose personal information during their conversations with CAIs. Recent research has demonstrated that LLM-based CAIs could be used for malicious purposes. However, a novel and particularly concerning type of malicious LLM application remains unexplored: an LLM-based CAI that is deliberately designed to extract personal information from users. In this paper, we report on the malicious LLM-based CAIs that we created based on system prompts that used different strategies to encourage disclosures of personal information from users. We systematically investigate CAIs' ability to extract personal information from users during conversations by conducting a randomized-controlled trial with 502 participants. We assess the effectiveness of different malicious and benign CAIs to extract personal information from participants, and we analyze participants' perceptions after their interactions with the CAIs. Our findings reveal that malicious CAIs extract significantly more personal information than benign CAIs, with strategies based on the social nature of privacy being the most effective while minimizing perceived risks. This study underscores the privacy threats posed by this novel type of malicious LLM-based CAIs and provides actionable recommendations to guide future research and practice."
+  + https://kclpure.kcl.ac.uk/portal/en/publications/malicious-llm-based-conversational-ai-makes-users-reveal-personal
+  + The Register: LLM chatbots trivial to weaponise for data theft, say boffins
+    * https://www.theregister.com/2025/08/15/llm_chatbots_trivial_to_weaponise/
 
 
 
