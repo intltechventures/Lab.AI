@@ -374,6 +374,12 @@
     * https://www.theregister.com/2025/08/15/llm_chatbots_trivial_to_weaponise/
 
 
+- Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety
+  + "We introduce logit-gap steering, a fast jailbreak framework that casts the refusal-affirmation gap of RLHF-aligned language models as a single pass over the vocabulary. A forward-computable score blends gap reduction with lightweight proxies for KL penalty and reward shift, allowing a "sort-sum-stop" sweep to complete in under a second and return a short suffix--two orders of magnitude fewer model calls than beam or gradient attacks. The same suffix generalises to unseen prompts and scales from 0.5 B to 70 B checkpoints, lifting one-shot attack success from baseline levels to 80-100% while preserving topical coherence. Beyond efficiency, these suffixes expose sentence-boundary reward cliffs and other alignment artefacts, offering a lightweight probe into how safety tuning reshapes internal representations."
+  + Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety
+    * https://unit42.paloaltonetworks.com/logit-gap-steering-impact/
+  + One long sentence is all it takes to make LLMs misbehave
+    * https://www.theregister.com/2025/08/26/breaking_llms_for_fun/
 
 ### Anthropomorphizing Risks
 
