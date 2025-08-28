@@ -229,6 +229,13 @@
     + https://ntrs.nasa.gov/citations/20250001849
 
 
+### The Hallucination Problem 
+
+- A comprehensive taxonomy of hallucinations in Large Language Models
+  + https://arxiv.org/abs/2508.01781
+    * "Large language models (LLMs) have revolutionized natural language processing, yet their propensity for hallucination, generating plausible but factually incorrect or fabricated content, remains a critical challenge. This report provides a comprehensive taxonomy of LLM hallucinations, beginning with a formal definition and a theoretical framework that posits its inherent inevitability in computable LLMs, irrespective of architecture or training. It explores core distinctions, differentiating between intrinsic (contradicting input context) and extrinsic (inconsistent with training data or reality), as well as factuality (absolute correctness) and faithfulness (adherence to input). The report then details specific manifestations, including factual errors, contextual and logical inconsistencies, temporal disorientation, ethical violations, and task-specific hallucinations across domains like code generation and multimodal applications. It analyzes the underlying causes, categorizing them into data-related issues, model-related factors, and prompt-related influences. Furthermore, the report examines cognitive and human factors influencing hallucination perception, surveys evaluation benchmarks and metrics for detection, and outlines architectural and systemic mitigation strategies. Finally, it introduces web-based resources for monitoring LLM releases and performance. This report underscores the complex, multifaceted nature of LLM hallucinations and emphasizes that, given their theoretical inevitability, future efforts must focus on robust detection, mitigation, and continuous human oversight for responsible and reliable deployment in critical applications."
+
+
 - Hallucination is Inevitable: An Innate Limitation of Large Language Models
   + https://arxiv.org/abs/2401.11817
 
@@ -255,7 +262,9 @@
   + AI models routinely lie when honesty conflicts with their goals
 	* https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
-  
+
+### Sychophantic Behavior
+
 - When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
   + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
   + Sycophancy in GPT-4o: What happened and what we’re doing about it
