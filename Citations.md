@@ -580,6 +580,11 @@
   + https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/
 
 
+- The State of MCP Security, Pynt's 2025 Report
+  + https://www.pynt.io/blog/llm-security-blogs/state-of-mcp-security
+    * "Pynt’s latest research analyzes 281 MCP configurations collected from open agent frameworks and plugin stacks."
+
+    
 
 ## Interesting YouTube Talks
 
