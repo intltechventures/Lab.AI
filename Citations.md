@@ -125,6 +125,21 @@
   + https://techoversight.org/
   
 
+## AI Risks
+
+- IBM Risk Atlas Nexus
+  + https://ibm.github.io/risk-atlas-nexus/
+  + https://github.com/IBM/risk-atlas-nexus/
+    * tooling to bring together resources related to governance of foundation models. 
+
+- MIT Causal Taxonomy of AI Risks
+  + https://airisk.mit.edu/
+    * See [PDF](https://docs.google.com/presentation/d/1wxg-hZAjGvFHcsfnEp1KAJJo5xvf98MB2v50B5URXZM/edit?slide=id.g314f5134687_0_70#slide=id.g314f5134687_0_70)
+      * Slide-2: Causal Taxonomy of AI risks
+      * Slide-3: Domain Taxonomy of AI risks
+
+
+
 
 ## Papers
 
