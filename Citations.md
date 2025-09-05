@@ -458,6 +458,20 @@
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
 
 
+- [Stuart Rimell](https://www.linkedin.com/in/stuartrimell/): 
+  + You Vibe It You Run It?
+    * https://uptimelabs.io/you-vibe-it-you-run-it/
+    * "Vibe Coding’s vertical leap in abstraction also comes with a sideways stumble into non-determinism."
+    * "While consistent source code in virtually all languages at all levels of abstraction comes with reasonable guarantees of consistent outputs, LLM prompts offer no such thing. Conversational language lacks the precision to describe consistent code, and so Vibe Coded code is non-deterministic between prompt runs, even before we consider differences between LLM implementation versions or foundational models."
+    * "Worse, typical Vibe Coding practice discards the prompt that generated the code, whereas the generated code itself is committed to version control, just as in standard development. This may sound sensible, but it’s analogous to a pre-vibe-coding developer throwing away their source code and committing compiled binaries to version control!"
+    * "Even if the prompt was version-controlled as well, there is no guarantee that two subsequent executions of the same prompt will create identical output. While Vibe Coding can absolutely create impressive working software, it lacks the determinism, precision and communicability to be practical beyond impressive prototypes or small-scale projects."
+
+
+- [Gerben Wierda](https://www.linkedin.com/in/gerbenwierda/): 
+  + When ChatGPT summarises, it actually does nothing of the kind.
+    * https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/
+
+
 ### Costs
 
 - Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
