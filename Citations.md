@@ -125,7 +125,7 @@
   + https://techoversight.org/
   
 
-## AI Risks
+## AI Risk Categories
 
 - IBM Risk Atlas Nexus
   + https://ibm.github.io/risk-atlas-nexus/
@@ -139,9 +139,16 @@
       * Slide-3: Domain Taxonomy of AI risks
 
 
+- The OpenAI Files
+  + "The OpenAI Files is the most comprehensive collection to date of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI."
+  + https://www.openaifiles.org/
+  + https://www.openaifiles.org/vision-for-change
 
 
 ## Papers
+
+
+### Paper: Illusions of Thinking and Agency Risks
 
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
   + https://machinelearning.apple.com/research/illusion-of-thinking
@@ -151,20 +158,6 @@
   + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135645
 
 
-- The OpenAI Files
-  + "The OpenAI Files is the most comprehensive collection to date of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI."
-  + https://www.openaifiles.org/
-  + https://www.openaifiles.org/vision-for-change
-
-
-- Identifying AI Hazards and Responsibility Gaps
-  + https://ieeexplore.ieee.org/ielx8/6287639/10820123/10930474.pdf
-
-
-- RealHarm: A Collection of Real-World Language Model Application Failures
-  + https://arxiv.org/abs/2504.10277
-
-
 - The Leaderboard Illusion
   + https://arxiv.org/abs/2504.20879
 
@@ -172,44 +165,16 @@
 - Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
   + https://arxiv.org/abs/2403.04132
 
+ 
 
-- SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
-  + https://arxiv.org/abs/2502.12115
-  + https://openai.com/index/swe-lancer/
-  + https://github.com/openai/SWELancer-Benchmark
+### Papers: Critical Applications Usage Risks 
 
-
-- SWE-bench
-  + [SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2023, last revised 11 Nov 2024 (this version, v3)]](https://arxiv.org/abs/2310.06770)
-  + https://www.swebench.com/
-
-
-
-- Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens
-  + https://arxiv.org/abs/2508.01191
-  + "Chain-of-Thought (CoT) prompting has been shown to improve Large Language Model (LLM) performance on various tasks. With this approach, LLMs appear to produce human-like reasoning steps before providing answers (a.k.a., CoT reasoning), which often leads to the perception that they engage in deliberate inferential processes. However, some initial findings suggest that CoT reasoning may be more superficial than it appears, motivating us to explore further. In this paper, we study CoT reasoning via a data distribution lens and investigate if CoT reasoning reflects a structured inductive bias learned from in-distribution data, allowing the model to conditionally generate reasoning paths that approximate those seen during training. Thus, its effectiveness is fundamentally bounded by the degree of distribution discrepancy between the training data and the test queries. With this lens, we dissect CoT reasoning via three dimensions: task, length, and format. To investigate each dimension, we design DataAlchemy, an isolated and controlled environment to train LLMs from scratch and systematically probe them under various distribution conditions. Our results reveal that CoT reasoning is a brittle mirage that vanishes when it is pushed beyond training distributions. This work offers a deeper understanding of why and when CoT reasoning fails, emphasizing the ongoing challenge of achieving genuine and generalizable reasoning."
-
-
-- Potemkin Understanding in Large Language Models
-  + https://arxiv.org/abs/2506.21521
-
-
-
-- What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models
-  + https://arxiv.org/abs/2507.06952
-
-
-- A Conjecture on a Fundamental Trade-off between Certainty and Scope in Symbolic and Generative AI
-  + https://arxiv.org/abs/2506.10130
-  + "This article introduces a conjecture that formalises a fundamental trade-off between provable correctness and broad data-mapping capacity in Artificial Intelligence (AI) systems. When an AI system is engineered for deductively watertight guarantees (demonstrable certainty about the error-free nature of its outputs) -- as in classical symbolic AI -- its operational domain must be narrowly circumscribed and pre-structured. Conversely, a system that can input high-dimensional data to produce rich information outputs -- as in contemporary generative models -- necessarily relinquishes the possibility of zero-error performance, incurring an irreducible risk of errors or misclassification. By making this previously implicit trade-off explicit and open to rigorous verification, the conjecture significantly reframes both engineering ambitions and philosophical expectations for AI. After reviewing the historical motivations for this tension, the article states the conjecture in information-theoretic form and contextualises it within broader debates in epistemology, formal verification, and the philosophy of technology. It then offers an analysis of its implications and consequences, drawing on notions of underdetermination, prudent epistemic risk, and moral responsibility. The discussion clarifies how, if correct, the conjecture would help reshape evaluation standards, governance frameworks, and hybrid system design. The conclusion underscores the importance of eventually proving or refuting the inequality for the future of trustworthy AI."
+- Identifying AI Hazards and Responsibility Gaps
+  + https://ieeexplore.ieee.org/ielx8/6287639/10820123/10930474.pdf
 
 
 - RealHarm: A Collection of Real-World Language Model Application Failures
   + https://arxiv.org/abs/2504.10277
-
-
-- LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
-  + https://arxiv.org/abs/2503.11082
 
 
 - Medical Hallucination in Foundation Models and Their Impact on Healthcare
@@ -220,31 +185,17 @@
   + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5217060
 
 
-- ChatGPT is bullshit
-  + https://link.springer.com/article/10.1007/s10676-024-09775-5
-
-
-- Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It
-  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
-    * "As Judea Pearl sees it, the underlying reason for such mistakes is that '... all the impressive achievements of deep learning amount to just curve fitting.'"
-    * "Gary Marcus and Ernest Davis in a recent piece for the New York Times: 'we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets—often using an approach known as ‘Deep Learning’—and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space, and causality.`"
-    * "In this paper, foregrounding what in 1949 Gilbert Ryle termed 'a category mistake', I will offer an alternative explanation for AI errors; it is not so much that AI machinery cannot 'grasp' causality, but that AI machinery (qua computation) cannot understand anything at all."
-  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
-
-
-- ARC-AGI-2
-  + https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
-  + https://arcprize.org/competition
-  + https://arcprize.org/leaderboard
-  + [2025-03-25 LLMs Hit a New Low on ARC-AGI-2 Benchmark, Pure LLMs Score 0%](https://analyticsindiamag.com/ai-news-updates/llms-hit-a-new-low-on-arc-agi-2-benchmark-pure-llms-score-0/)
- 
-
 - National Aeronautics and Space Administration (NASA)
   + Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments (March 1, 2025)
     + https://ntrs.nasa.gov/citations/20250001849
 
 
-### The Hallucination Problem 
+
+### Papers: The Hallucination Problem 
+
+- What is LLM Temperature?
+  + https://www.ibm.com/think/topics/llm-temperature
+
 
 - A comprehensive taxonomy of hallucinations in Large Language Models
   + https://arxiv.org/abs/2508.01781
@@ -259,10 +210,7 @@
   + https://arxiv.org/abs/2409.05746
 
 
-- The wall confronting large language models
-  + https://www.arxiv.org/abs/2507.19703
-  + "We show that the scaling laws which determine the performance of large language models (LLMs) severely limit their ability to improve the uncertainty of their predictions. As a result, raising their reliability to meet the standards of scientific inquiry is intractable by any reasonable measure. We argue that the very mechanism which fuels much of the learning power of LLMs, namely the ability to generate non-Gaussian output distributions from Gaussian input ones, might well be at the roots of their propensity to produce error pileup, ensuing information catastrophes and degenerative AI behaviour. This tension between learning and accuracy is a likely candidate mechanism underlying the observed low values of the scaling components. It is substantially compounded by the deluge of spurious correlations pointed out by Calude and Longo which rapidly increase in any data set merely as a function of its size, regardless of its nature."
-
+### Papers: Accuracy and Uncertainty Risks 
 
 - TruthfulQA: Measuring How Models Mimic Human Falsehoods
   + https://arxiv.org/abs/2109.07958
@@ -278,57 +226,51 @@
 	* https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
 
-### Sychophantic Behavior
-
-- When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
-  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
-  + Sycophancy in GPT-4o: What happened and what we’re doing about it
-	* https://openai.com/index/sycophancy-in-gpt-4o/
+- Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens
+  + https://arxiv.org/abs/2508.01191
+  + "Chain-of-Thought (CoT) prompting has been shown to improve Large Language Model (LLM) performance on various tasks. With this approach, LLMs appear to produce human-like reasoning steps before providing answers (a.k.a., CoT reasoning), which often leads to the perception that they engage in deliberate inferential processes. However, some initial findings suggest that CoT reasoning may be more superficial than it appears, motivating us to explore further. In this paper, we study CoT reasoning via a data distribution lens and investigate if CoT reasoning reflects a structured inductive bias learned from in-distribution data, allowing the model to conditionally generate reasoning paths that approximate those seen during training. Thus, its effectiveness is fundamentally bounded by the degree of distribution discrepancy between the training data and the test queries. With this lens, we dissect CoT reasoning via three dimensions: task, length, and format. To investigate each dimension, we design DataAlchemy, an isolated and controlled environment to train LLMs from scratch and systematically probe them under various distribution conditions. Our results reveal that CoT reasoning is a brittle mirage that vanishes when it is pushed beyond training distributions. This work offers a deeper understanding of why and when CoT reasoning fails, emphasizing the ongoing challenge of achieving genuine and generalizable reasoning."
 
 
-- We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
-  + https://arxiv.org/abs/2406.10279
-  + aka "Slopsquatting"
-  + AI-generated code could be a disaster for the software supply chain. Here’s why.
-    * https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/
+- Potemkin Understanding in Large Language Models
+  + https://arxiv.org/abs/2506.21521
 
 
-- When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
-  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
+- What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models
+  + https://arxiv.org/abs/2507.06952
 
 
-- Self-Consuming Generative Models Go MAD
-  + https://arxiv.org/abs/2307.01850
+- The wall confronting large language models
+  + https://www.arxiv.org/abs/2507.19703
+  + "We show that the scaling laws which determine the performance of large language models (LLMs) severely limit their ability to improve the uncertainty of their predictions. As a result, raising their reliability to meet the standards of scientific inquiry is intractable by any reasonable measure. We argue that the very mechanism which fuels much of the learning power of LLMs, namely the ability to generate non-Gaussian output distributions from Gaussian input ones, might well be at the roots of their propensity to produce error pileup, ensuing information catastrophes and degenerative AI behaviour. This tension between learning and accuracy is a likely candidate mechanism underlying the observed low values of the scaling components. It is substantially compounded by the deluge of spurious correlations pointed out by Calude and Longo which rapidly increase in any data set merely as a function of its size, regardless of its nature."
 
 
-- The Curse of Recursion: Training on Generated Data Makes Models Forget
-  + https://arxiv.org/abs/2305.17493
+- A Conjecture on a Fundamental Trade-off between Certainty and Scope in Symbolic and Generative AI
+  + https://arxiv.org/abs/2506.10130
+  + "This article introduces a conjecture that formalises a fundamental trade-off between provable correctness and broad data-mapping capacity in Artificial Intelligence (AI) systems. When an AI system is engineered for deductively watertight guarantees (demonstrable certainty about the error-free nature of its outputs) -- as in classical symbolic AI -- its operational domain must be narrowly circumscribed and pre-structured. Conversely, a system that can input high-dimensional data to produce rich information outputs -- as in contemporary generative models -- necessarily relinquishes the possibility of zero-error performance, incurring an irreducible risk of errors or misclassification. By making this previously implicit trade-off explicit and open to rigorous verification, the conjecture significantly reframes both engineering ambitions and philosophical expectations for AI. After reviewing the historical motivations for this tension, the article states the conjecture in information-theoretic form and contextualises it within broader debates in epistemology, formal verification, and the philosophy of technology. It then offers an analysis of its implications and consequences, drawing on notions of underdetermination, prudent epistemic risk, and moral responsibility. The discussion clarifies how, if correct, the conjecture would help reshape evaluation standards, governance frameworks, and hybrid system design. The conclusion underscores the importance of eventually proving or refuting the inequality for the future of trustworthy AI."
 
 
-- CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions
-  + https://arxiv.org/abs/2505.18878
-    * "Experiments reveal leading LLM agents achieve only around 58% single-turn success on CRMArena-Pro, with performance dropping significantly to approximately 35% in multi-turn settings. While Workflow Execution proves more tractable for top agents (over 83% single-turn success), other evaluated business skills present greater challenges. Furthermore, agents exhibit near-zero inherent confidentiality awareness; though targeted prompting can improve this, it often compromises task performance."
+- ChatGPT is bullshit
+  + https://link.springer.com/article/10.1007/s10676-024-09775-5
 
 
-- TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks (December 2024)
-  + https://arxiv.org/abs/2412.14161
-  + https://the-agent-company.com/
-  + Professors Staffed a Fake Company Entirely With AI Agents, and You'll Never Guess What Happened
-    * https://futurism.com/professors-company-ai-agents
-  + Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.
-	* https://tech.yahoo.com/ai/articles/next-assignment-babysitting-ai-081502817.html
+- Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It
+  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
+    * "As Judea Pearl sees it, the underlying reason for such mistakes is that '... all the impressive achievements of deep learning amount to just curve fitting.'"
+    * "Gary Marcus and Ernest Davis in a recent piece for the New York Times: 'we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets—often using an approach known as ‘Deep Learning’—and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space, and causality.`"
+    * "In this paper, foregrounding what in 1949 Gilbert Ryle termed 'a category mistake', I will offer an alternative explanation for AI errors; it is not so much that AI machinery cannot 'grasp' causality, but that AI machinery (qua computation) cannot understand anything at all."
+  + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
 
 
-- NoLiMa: Long-Context Evaluation Beyond Literal Matching
-  + https://arxiv.org/abs/2502.05167
-    * "We evaluate 12 popular LLMs that claim to support contexts of at least 128K tokens. While they perform well in short contexts (<1K), performance degrades significantly as context length increases. At 32K, for instance, 10 models drop below 50% of their strong short-length baselines. Even GPT-4o, one of the top-performing exceptions, experiences a reduction from an almost-perfect baseline of 99.3% to 69.7%."
-  + https://huggingface.co/datasets/amodaresi/NoLiMa
-  + https://www.reddit.com/r/LocalLLaMA/comments/1io3hn2/nolima_longcontext_evaluation_beyond_literal/
 
 
-- GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
-  + https://arxiv.org/abs/2410.05229
+### Papers: Anthropomorphizing Risks
 
+- Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
+  + https://arxiv.org/abs/2504.09762v2
+
+
+
+### Papers: Sycophantic Behavior Risks
 
 - Towards Understanding Sycophancy in Language Models
   + https://arxiv.org/abs/2310.13548
@@ -340,27 +282,60 @@
     * https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf
 
 
-- (Im)possibility of Automated Hallucination Detection in Large Language Models
-  + https://www.arxiv.org/abs/2504.17004
+- When Large Language Models contradict humans? Large Language Models' Sycophantic Behavior
+  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
+  + Sycophancy in GPT-4o: What happened and what we’re doing about it
+	* https://openai.com/index/sycophancy-in-gpt-4o/
+
+
+- When Large Language Models contradict humans? Large Language Models' Sycophantic Behavior
+  + https://www.semanticscholar.org/paper/When-Large-Language-Models-contradict-humans-Large-Ranaldi-Pucci/c6178035aab3bf6083e2523a51c6fae15c0b323f
+
+
+### Papers: Model Collapse Risks
+
+- Self-Consuming Generative Models Go MAD
+  + https://arxiv.org/abs/2307.01850
+
+
+- The Curse of Recursion: Training on Generated Data Makes Models Forget
+  + https://arxiv.org/abs/2305.17493
+
+
+### Papers: Multi-turn and Long-Context Risks 
+
+- NoLiMa: Long-Context Evaluation Beyond Literal Matching
+  + https://arxiv.org/abs/2502.05167
+    * "We evaluate 12 popular LLMs that claim to support contexts of at least 128K tokens. While they perform well in short contexts (<1K), performance degrades significantly as context length increases. At 32K, for instance, 10 models drop below 50% of their strong short-length baselines. Even GPT-4o, one of the top-performing exceptions, experiences a reduction from an almost-perfect baseline of 99.3% to 69.7%."
+  + https://huggingface.co/datasets/amodaresi/NoLiMa
+  + https://www.reddit.com/r/LocalLLaMA/comments/1io3hn2/nolima_longcontext_evaluation_beyond_literal/
 
 
 - LLMs Get Lost In Multi-Turn Conversation
   + https://arxiv.org/abs/2505.06120
+  
 
+### Papers: Mathematical Reasoning Limitation Risks 
+  
+- GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
+  + https://arxiv.org/abs/2410.05229
+
+
+### Papers: Error Detection Limitation Risks 
+
+- (Im)possibility of Automated Hallucination Detection in Large Language Models
+  + https://www.arxiv.org/abs/2504.17004
+
+
+
+### Papers: Benchmark Cheating Risks 
 
 - Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates  
   + https://arxiv.org/abs/2410.07137
 
 
-- Neural Thermodynamic Laws for Large Language Model Training
-  + https://arxiv.org/abs/2505.10559
 
-
-- Generalization bias in large language model summarization of scientific research
-  + https://arxiv.org/abs/2504.00025
-  + https://royalsocietypublishing.org/doi/10.1098/rsos.241776
-  + https://doi.org/10.1098/rsos.241776
-
+### Papers: Copyright Infringement Risks
 
 - Extracting memorized pieces of (copyrighted) books from open-weight language models
   + https://arxiv.org/abs/2505.12546
@@ -368,7 +343,47 @@
     * https://www.understandingai.org/p/metas-llama-31-can-recall-42-percent
 
 
-### Cybersecurity & Privacy Risks
+### Papers: Bias Risks 
+
+- Generalization bias in large language model summarization of scientific research
+  + https://arxiv.org/abs/2504.00025
+  + https://royalsocietypublishing.org/doi/10.1098/rsos.241776
+  + https://doi.org/10.1098/rsos.241776
+
+
+### Papers: Code Generation Risks 
+
+- We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
+  + https://arxiv.org/abs/2406.10279
+  + aka "Slopsquatting"
+  + AI-generated code could be a disaster for the software supply chain. Here’s why.
+    * https://arstechnica.com/security/2025/04/ai-generated-code-could-be-a-disaster-for-the-software-supply-chain-heres-why/
+
+
+- LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
+  + https://arxiv.org/abs/2503.11082
+
+
+- SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
+  + https://arxiv.org/abs/2502.12115
+  + https://openai.com/index/swe-lancer/
+  + https://github.com/openai/SWELancer-Benchmark
+
+
+- SWE-bench
+  + [SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2023, last revised 11 Nov 2024 (this version, v3)]](https://arxiv.org/abs/2310.06770)
+  + https://www.swebench.com/
+
+
+- ARC-AGI-2
+  + https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
+  + https://arcprize.org/competition
+  + https://arcprize.org/leaderboard
+  + [2025-03-25 LLMs Hit a New Low on ARC-AGI-2 Benchmark, Pure LLMs Score 0%](https://analyticsindiamag.com/ai-news-updates/llms-hit-a-new-low-on-arc-agi-2-benchmark-pure-llms-score-0/)
+ 
+
+
+### Papers: Cybersecurity & Privacy Risks
 
 - TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems
   + https://arxiv.org/abs/2506.04133
@@ -405,14 +420,24 @@
   + One long sentence is all it takes to make LLMs misbehave
     * https://www.theregister.com/2025/08/26/breaking_llms_for_fun/
 
-### Anthropomorphizing Risks
-
-- Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
-  + https://arxiv.org/abs/2504.09762v2
 
 
+### Papers: Agentic AI Risks
 
-### Agentic AI Risks
+
+- TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks (December 2024)
+  + https://arxiv.org/abs/2412.14161
+  + https://the-agent-company.com/
+  + Professors Staffed a Fake Company Entirely With AI Agents, and You'll Never Guess What Happened
+    * https://futurism.com/professors-company-ai-agents
+  + Carnegie Mellon staffed a fake company with AI agents. It was a total disaster.
+	* https://tech.yahoo.com/ai/articles/next-assignment-babysitting-ai-081502817.html
+
+
+- CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions
+  + https://arxiv.org/abs/2505.18878
+    * "Experiments reveal leading LLM agents achieve only around 58% single-turn success on CRMArena-Pro, with performance dropping significantly to approximately 35% in multi-turn settings. While Workflow Execution proves more tractable for top agents (over 83% single-turn success), other evaluated business skills present greater challenges. Furthermore, agents exhibit near-zero inherent confidentiality awareness; though targeted prompting can improve this, it often compromises task performance."
+
 
 
 - Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents
@@ -439,12 +464,15 @@
 
 
 
-### Bias in LLMs
+### Papers: Training Risks 
 
 - Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models
   + https://arxiv.org/abs/2506.10491
   + [ChatGPT advises women to ask for lower salaries, study finds](https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study)
 
+
+- Neural Thermodynamic Laws for Large Language Model Training
+  + https://arxiv.org/abs/2505.10559
 
 
 
@@ -472,14 +500,14 @@
     * https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/
 
 
-### Costs
+### Articles: Costs
 
 - Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
   + https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
 
 
 
-### On Whether LLMs are Sentient
+### Articles: On Whether LLMs are Sentient
 
 - Are LLMs starting to become sentient?
   + https://garymarcus.substack.com/p/are-llms-starting-to-become-a-sentient
@@ -487,27 +515,27 @@
   + [Douglas Richard Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) is an American cognitive and  computer scientist whose research includes concepts such as the sense of self in relation to the external world, consciousness, analogy-making, strange loops, artificial intelligence, and discovery in mathematics and physics.
 
 
-### On the Erroneous Assumption that Programming is DEAD
+### Articles: On the Erroneous Assumption that Programming is DEAD
 
 - Why kids still need to learn to code in the age of AI 
   + https://www.raspberrypi.org/blog/why-kids-still-need-to-learn-to-code-in-the-age-of-ai/
 
 
-### LLM Prompt Injection Risks
+### Articles: LLM Prompt Injection Risks
 
 - Novel Universal Bypass for All Major LLMs
   + The Policy Puppetry Prompt Injection Technique
   + https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
   
 
-### LLM Subterfuge Risks
+### Articles: LLM Subterfuge Risks
 
 - AI models routinely lie when honesty conflicts with their goals
   + https://www.theregister.com/2025/05/01/ai_models_lie_research/
 
 
 
-### LLM Hallucination Risks
+### Articles: LLM Hallucination Risks
  
 - A Comprehensive Guide to LLM Temperature
   + https://medium.com/@kelseyywang/a-comprehensive-guide-to-llm-temperature-%EF%B8%8F-363a40bbc91f
@@ -533,14 +561,14 @@
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
 
-### LLM Safety Risks
+### Articles: LLM Safety Risks
 
 - OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
   + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
 
 
 
-### Copyright Theft
+### Articles: Copyright Infringement 
 
 
 - The Atlantic: The Unbelievable Scale of AI’s Pirated-Books Problem
@@ -560,7 +588,7 @@
 
 
 
-### LLM Cheating on Benchmarks Risks
+### Articles: LLM Cheating on Benchmarks Risks
 
 - Leading AI models accused of cheating benchmark tests, Able to regurgitate test sets verbatim
   + https://www.computing.co.uk/news/2025/ai/ai-models-cheating-benchmark-tests
@@ -569,20 +597,22 @@
   + https://whoisnnamdi.substack.com/p/ai-benchmarking-broken
 
 
-### Legal and Ethical Risks
+### Articles: Legal and Ethical Risks
 
 - David T. Laton, A Cautionary Tale of AI As A Research Tool for Lawyers, Prac. Law. 42, 43 (2024) (“ChatGPT currently lacks the ability to produce reliable and accurate results when given a legal query.”).
   + https://files.ali-cle.org/thumbs/datastorage/lacidoirep/articles/TPL2402_Laton_thumb.pdf
 
+
 - Sarah Starnes, Artificial Intelligence and Ethical Considerations for the New Legal Learner: An Annotated BibliographyLearner: An Annotated Bibliography, Akron Law ReviewAkron Law Review, Volume 57, Issue 3, Symposium Issue, Article 4
   + https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=2591&context=akronlawreview
+
 
 - The Ethics of Artificial Intelligence in the Practice of Law, TENTH ANNUAL WESTERN DISTRICT OF VIRGINIA BANKRUPTCY CONFERENCE, ROANOKE, VIRGINIA, JUNE 14, 2024
   + https://www.vawb.uscourts.gov/sites/default/files/conf%20materials/2024/02%20-%20Ethics%20Panel%20-%20AI.pdf
 
 
 
-### Model Collapse Risks
+### Articles: Model Collapse Risks
 
 - AI Models Show Signs of Falling Apart as They Ingest More AI-Generated Data
   + https://futurism.com/ai-models-falling-apart
@@ -595,7 +625,7 @@
 - https://www.ibm.com/think/topics/model-collapse
 
 
-### RAG Risks
+### Articles: RAG Risks
 
 - RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models
   + Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
@@ -603,7 +633,7 @@
 
 
 
-### MCP Risks
+### Articles: MCP Risks
 
 - MCP Horror Stories: The Security Issues Threatening AI Infrastructure 
   + https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/
