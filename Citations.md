@@ -93,6 +93,8 @@
 
 ## Video Talks
 
+### Harris, Tristan
+
 - Why AI is our ultimate test and greatest invitation
   + Speaker: Tristan Harris, Center for Humane Technology
   + https://www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation
@@ -111,6 +113,13 @@
 - Optimizing for Engagement: Understanding the Use of Persuasive Technology on Internet Platforms. US Senate Testimony 
   + Speaker: Tristan Harris, Center for Humane Technology
   + https://www.youtube.com/watch?v=ZRrguMdzXBw
+
+
+
+### Reul, Quentin
+
+- The Unpredictable Reality of AI
+  + https://www.youtube.com/watch?v=e8EkcLyx_H4
 
 
 ## Governance and Oversight Organizations
