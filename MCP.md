@@ -10,6 +10,9 @@
 
 - https://github.com/modelcontextprotocol/modelcontextprotocol
 
+- https://github.com/modelcontextprotocol/registry
+  + https://github.com/modelcontextprotocol/registry/tree/main/docs
+
 
 
 ## Authentication
