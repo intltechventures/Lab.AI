@@ -45,7 +45,7 @@
   + https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
 
 
-- Maia Iyer, Hybrid Cloud Research Software Engineer at IBM. ([(Medium.com)](https://medium.com/@maia.raj.iyer))
+- Maia Iyer, Hybrid Cloud Research Software Engineer at IBM. ([LinkedIn](https://www.linkedin.com/in/maia-iyer/), [(Medium.com)](https://medium.com/@maia.raj.iyer))
   - Security in and around MCP: Part 1 — OAuth in MCP 
     * https://medium.com/kagenti-the-agentic-platform/security-in-and-around-mcp-part-1-oauth-in-mcp-3f15fed0dd6e
   - Security In and Around MCP: Part 2 — MCP in Deployment
