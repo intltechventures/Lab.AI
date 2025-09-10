@@ -21,6 +21,8 @@
     * https://www.linkedin.com/posts/activity-7343343090356600832-s_wF
 
 
+- Spec Proposal: A Gateway-Based Authorization Model
+  + https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/804
 
 
 
