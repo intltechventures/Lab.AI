@@ -156,6 +156,11 @@
   + https://github.com/IBM/risk-atlas-nexus/
     * tooling to bring together resources related to governance of foundation models. 
 
+
+- IBM AI Risk Atlas
+  + https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas
+
+
 - MIT Causal Taxonomy of AI Risks
   + https://airisk.mit.edu/
     * See [PDF](https://docs.google.com/presentation/d/1wxg-hZAjGvFHcsfnEp1KAJJo5xvf98MB2v50B5URXZM/edit?slide=id.g314f5134687_0_70#slide=id.g314f5134687_0_70)
