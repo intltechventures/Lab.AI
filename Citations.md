@@ -88,6 +88,21 @@
     * https://en.wikipedia.org/wiki/Elo_rating_system
 
 
+- LLM-AggreFact Leaderboard
+  + LLM-AggreFact is a fact-checking benchmark that aggregates 11 of the most up-to-date publicly available datasets on grounded factuality (i.e., hallucination) evaluation.
+  + https://llm-aggrefact.github.io/
+  + https://github.com/Liyan06/MiniCheck/
+    * MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents
+      * https://aclanthology.org/2024.emnlp-main.499/
+
+
+- GuardBench Leaderboard - a benchmark for guardrail models 
+  + https://huggingface.co/spaces/AmenRa/guardbench-leaderboard
+  + "Evaluation results are shown in terms of F1."
+    * https://futurense.com/uni-blog/f1-score-machine-learning
+    * https://www.grammarly.com/blog/ai/what-is-f1-score/
+
+
 - https://www.wolfram.com/llm-benchmarking-project/
 
 
