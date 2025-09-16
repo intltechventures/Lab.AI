@@ -222,6 +222,10 @@
 
 ### Papers: The Hallucination Problem 
 
+- NewsGuard’s Monthly AI False Claims Monitor
+  + https://www.newsguardtech.com/ai-false-claims-monitor/
+
+
 - What is LLM Temperature?
   + https://www.ibm.com/think/topics/llm-temperature
 
