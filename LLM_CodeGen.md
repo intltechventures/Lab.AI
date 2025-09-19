@@ -21,3 +21,8 @@
 
 
 
+## Prompt Ideas
+
+- "Ask me clarifying questions as needed to complete this task"
+  + source: [Arron Murrell](https://www.linkedin.com/in/aaronmurrell/), [post on LinkedIn](https://lnkd.in/p/gJwRSit4)
+
