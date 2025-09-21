@@ -177,7 +177,7 @@
 ## Papers
 
 
-### Paper: Illusions of Thinking and Agency Risks
+### Papers: Illusions of Thinking and Agency Risks
 
 - The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
   + https://machinelearning.apple.com/research/illusion-of-thinking
@@ -241,6 +241,13 @@
 
 - LLMs Will Always Hallucinate, and We Need to Live With This
   + https://arxiv.org/abs/2409.05746
+
+
+- Why Language Models Hallucinate (published by OpenAI)
+  + https://arxiv.org/abs/2509.04664
+  + OpenAI says models are programmed to make stuff up instead of admitting ignorance
+    * https://www.theregister.com/2025/09/17/openai_hallucinations_incentives/
+
 
 
 ### Papers: Accuracy and Uncertainty Risks 
