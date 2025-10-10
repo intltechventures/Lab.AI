@@ -575,6 +575,15 @@
   + https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
   
 
+
+### Articles: LLM Poisoning Attacks
+
+- Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples
+  + https://arxiv.org/abs/2510.07192
+    * "Poisoning attacks can compromise the safety of large language models (LLMs) by injecting malicious documents into their training data. Existing work has studied pretraining poisoning assuming adversaries control a percentage of the training corpus. However, for large models, even small percentages translate to impractically large amounts of data. This work demonstrates for the first time that poisoning attacks instead require a near-constant number of documents regardless of dataset size. We conduct the largest pretraining poisoning experiments to date, pretraining models from 600M to 13B parameters on chinchilla-optimal datasets (6B to 260B tokens). We find that 250 poisoned documents similarly compromise models across all model and dataset sizes, despite the largest models training on more than 20 times more clean data. We also run smaller-scale experiments to ablate factors that could influence attack success, including broader ratios of poisoned to clean data and non-random distributions of poisoned samples. Finally, we demonstrate the same dynamics for poisoning during fine-tuning. Altogether, our results suggest that injecting backdoors through data poisoning may be easier for large models than previously believed as the number of poisons required does not scale up with model size, highlighting the need for more research on defences to mitigate this risk in future models."
+  + https://www.anthropic.com/research/small-samples-poison
+
+
 ### Articles: LLM Subterfuge Risks
 
 - AI models routinely lie when honesty conflicts with their goals
