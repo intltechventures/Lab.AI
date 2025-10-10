@@ -682,6 +682,15 @@
 
 ### Articles: MCP Risks
 
+- The State of MCP Security, Pynt's 2025 Report
+  + https://www.pynt.io/blog/llm-security-blogs/state-of-mcp-security
+
+
+- 'Powerful but dangerous' full MCP support beta for ChatGPT arrives
+  + https://www.theregister.com/2025/09/15/full_mcp_support_in_beta_chatgpt/
+    * "Wow this is dangerous," said Django co-creator and AI enthusiast Simon Willison. "It comes with plenty of warnings, but we all know how much attention people pay to those. I'm confident that the majority of people messing around with things like MCP still don't fully understand how prompt injection attacks work and why they are such a significant threat."
+
+
 - MCP Horror Stories: The Security Issues Threatening AI Infrastructure 
   + https://www.docker.com/blog/mcp-security-issues-threatening-ai-infrastructure/
 
