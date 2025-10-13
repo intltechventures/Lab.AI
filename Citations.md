@@ -691,6 +691,10 @@
 
 ### Articles: MCP Risks
 
+- OWASP MCP Top 10
+  + https://owasp.org/www-project-mcp-top-10/
+
+
 - The State of MCP Security, Pynt's 2025 Report
   + https://www.pynt.io/blog/llm-security-blogs/state-of-mcp-security
 
