@@ -715,6 +715,14 @@
     * https://invariantlabs.ai/blog/mcp-github-vulnerability
 
 
+- Securing the Model Context Protocol (MCP) Server
+  + https://kenhuangus.substack.com/p/securing-the-model-context-protocol
+
+
+- A Security Engineer's Guide to MCP
+  + https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
+
+
 
 ## Interesting YouTube Talks
 
