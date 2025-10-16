@@ -743,14 +743,19 @@
 
 - Yann LeCun 
   + https://en.wikipedia.org/wiki/Yann_LeCun
+
   + Columbia Engineering, Lecture Series in AI: "How Could Machines Reach Human-Level Intelligence?” 
     * https://www.youtube.com/watch?v=xL6Y0dpXEwc
+
   + Big Technology Podcast: Why Can't AI Make Its Own Discoveries? — With Yann LeCun  
     * https://www.youtube.com/watch?v=qvNCVYkHKfg
+
   + AMS Josiah Willard Gibbs Lecture at the 2025 Joint Mathematics Meetings: "Mathematical Obstacles on the Way to Human-Level AI"
     * https://www.youtube.com/watch?v=ETZfkkv6V7Y
+
   + AI Action Summit 2025: The Shape of AI to Come!
     * https://www.youtube.com/watch?v=xnFmnU0Pp-8
+
   + NVIDIA GTC2025
     * https://www.linkedin.com/posts/gabrielspmoreira_nvidia-gtc2025-activity-7307872305659965442-mzw8
     * “I am not interested anymore in LLMs. They are just token generators and those are limited because tokens are in discrete space. I am more interested in next-gen model architectures, that should be able to do 4 things: understand physical world, have persistent memory and ultimately be more capable to plan and reason.” 
