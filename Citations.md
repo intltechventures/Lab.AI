@@ -742,19 +742,19 @@
 
 
 - Yann LeCun 
-  + https://en.wikipedia.org/wiki/Yann_LeCun
+  + https://en.wikipedia.org/wiki/Yann_LeCun   
 
-  + Columbia Engineering, Lecture Series in AI: "How Could Machines Reach Human-Level Intelligence?” 
-    * https://www.youtube.com/watch?v=xL6Y0dpXEwc
+  + Columbia Engineering, Lecture Series in AI: "How Could Machines Reach Human-Level Intelligence?"
+    * https://www.youtube.com/watch?v=xL6Y0dpXEwc      
 
   + Big Technology Podcast: Why Can't AI Make Its Own Discoveries? — With Yann LeCun  
-    * https://www.youtube.com/watch?v=qvNCVYkHKfg
+    * https://www.youtube.com/watch?v=qvNCVYkHKfg   
 
   + AMS Josiah Willard Gibbs Lecture at the 2025 Joint Mathematics Meetings: "Mathematical Obstacles on the Way to Human-Level AI"
-    * https://www.youtube.com/watch?v=ETZfkkv6V7Y
+    * https://www.youtube.com/watch?v=ETZfkkv6V7Y   
 
   + AI Action Summit 2025: The Shape of AI to Come!
-    * https://www.youtube.com/watch?v=xnFmnU0Pp-8
+    * https://www.youtube.com/watch?v=xnFmnU0Pp-8   
 
   + NVIDIA GTC2025
     * https://www.linkedin.com/posts/gabrielspmoreira_nvidia-gtc2025-activity-7307872305659965442-mzw8
@@ -805,9 +805,12 @@
 
 
 
-### Noteworthy Social Media Posts
+## Vibe Coding Bullshit
 
-- Andrew Karpathy's original Vibe Coding post (February 2, 2025):
-  + https://x.com/karpathy/status/1886192184808149383?lang=en
-    * "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard. I ask for the dumbest things like "decrease the padding on the sidebar by half" because I'm too lazy to find it. I "Accept All" always, I don't read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I'd have to really read through it for a while. Sometimes the LLMs can't fix a bug so I just work around it or ask for random changes until it goes away. It's not too bad for throwaway weekend projects, but still quite amusing. I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works."
+- Andrew Karpathy
+  + His original Vibe Coding post (February 2, 2025):
+    * https://x.com/karpathy/status/1886192184808149383?lang=en
+      * "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard. I ask for the dumbest things like "decrease the padding on the sidebar by half" because I'm too lazy to find it. I "Accept All" always, I don't read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I'd have to really read through it for a while. Sometimes the LLMs can't fix a bug so I just work around it or ask for random changes until it goes away. It's not too bad for throwaway weekend projects, but still quite amusing. I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works."
+  + Inventor of ‘Vibe Coding’ Says Vibe Coding Can’t Cut It 
+    * https://gizmodo.com/even-the-inventor-of-vibe-coding-says-vibe-coding-cant-cut-it-2000672821
 
