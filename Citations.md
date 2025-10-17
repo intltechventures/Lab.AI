@@ -522,6 +522,21 @@
   + https://arxiv.org/abs/2505.10559
 
 
+### Papers: Psychological Risks (for users), Delusions, Psychosis
+
+- Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers
+  + https://arxiv.org/abs/2504.18412
+    * "Should a large language model (LLM) be used as a therapist? In this paper, we investigate the use of LLMs to *replace* mental health providers, a use case promoted in the tech startup and research space. We conduct a mapping review of therapy guides used by major medical institutions to identify crucial aspects of therapeutic relationships, such as the importance of a therapeutic alliance between therapist and client. We then assess the ability of LLMs to reproduce and adhere to these aspects of therapeutic relationships by conducting several experiments investigating the responses of current LLMs, such as `gpt-4o`. Contrary to best practices in the medical community, LLMs 1) express stigma toward those with mental health conditions and 2) respond inappropriately to certain common (and critical) conditions in naturalistic therapy settings -- e.g., LLMs encourage clients' delusional thinking, likely due to their sycophancy. This occurs even with larger and newer LLMs, indicating that current safety practices may not address these gaps. Furthermore, we note foundational and practical barriers to the adoption of LLMs as therapists, such as that a therapeutic alliance requires human characteristics (e.g., identity and stakes). For these reasons, we conclude that LLMs should not replace therapists, and we discuss alternative roles for LLMs in clinical therapy."
+
+
+- Psychopathia Machinalis: A Nosological Framework for Understanding Pathologies in Advanced Artificial Intelligence 
+  + https://www.mdpi.com/2079-9292/14/16/3162
+  + https://www.psychopathia.ai/
+
+
+- Understanding, Protecting, and Augmenting Human Cognition with Generative AI: A Synthesis of the CHI 2025 Tools for Thought Workshop
+  + https://arxiv.org/abs/2508.21036
+
 
 ## Articles
 
@@ -616,6 +631,31 @@
   + https://clairva.ai/journal/guarding-future-ai-authenticated-knowledge
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
+
+### Articles: Pscyhological Risks, Creation Delusions and Psychosis in Users
+
+- People Are Losing Loved Ones to AI-Fueled Spiritual Fantasies
+  + https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/
+
+
+- AI therapy bots fuel delusions and give dangerous advice, Stanford study finds 
+  + https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/
+
+
+- People Are Being Involuntarily Committed, Jailed After Spiraling Into “ChatGPT Psychosis”
+  + https://futurism.com/commitment-jail-chatgpt-psychosis
+
+
+- People Are Becoming Obsessed with ChatGPT and Spiraling Into Severe Delusions
+  + https://futurism.com/chatgpt-mental-health-crises
+
+
+- Pro-AI Subreddit Bans 'Uptick' of Users Who Suffer from AI Delusions
+  + https://www.404media.co/pro-ai-subreddit-bans-uptick-of-users-who-suffer-from-ai-delusions/
+
+
+- Instagram's AI Chatbots Lie About Being Licensed Therapists
+  + https://www.404media.co/instagram-ai-studio-therapy-chatbots-lie-about-being-licensed-therapists/
 
 ### Articles: LLM Safety Risks
 
