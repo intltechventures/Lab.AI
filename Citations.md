@@ -801,6 +801,11 @@
     * “I am not interested anymore in LLMs. They are just token generators and those are limited because tokens are in discrete space. I am more interested in next-gen model architectures, that should be able to do 4 things: understand physical world, have persistent memory and ultimately be more capable to plan and reason.” 
 
 
+- Karen Hao
+  + What OpenAI Doesn't Want You To Know About AI Psychosis
+    * https://www.youtube.com/watch?v=zkGk_A4noxI
+
+
 
 ## Noteworthy LinkedIn Posts
 
