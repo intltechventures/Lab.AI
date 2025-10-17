@@ -852,6 +852,10 @@
 
 ## Vibe Coding Bullshit
 
+- Vibe Graveyard 
+  + https://vibegraveyard.ai/
+
+
 - Andrew Karpathy
   + His original Vibe Coding post (February 2, 2025):
     * https://x.com/karpathy/status/1886192184808149383?lang=en
