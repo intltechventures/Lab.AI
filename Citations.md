@@ -598,6 +598,11 @@
   + https://brave.com/blog/unseeable-prompt-injections/
 
 
+- Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet 
+  + https://brave.com/blog/comet-prompt-injection/
+
+
+
 ### Articles: LLM Poisoning Attacks
 
 - Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples
