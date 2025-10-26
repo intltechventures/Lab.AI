@@ -594,6 +594,10 @@
   + https://www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/
 
 
+- Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers
+  + https://brave.com/blog/unseeable-prompt-injections/
+
+
 ### Articles: LLM Poisoning Attacks
 
 - Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples
