@@ -9,7 +9,7 @@
 
 - It hallucinates because of the underlying LLM architecture.
 - It is performing per its design.
-
+   
 - It does not think.
 - It does not reason.
 - It is a stochastic parrot.
@@ -18,7 +18,7 @@
 - It has no capability to determine correctness.
 - It doesn't actually understand the gibberish it spits out.
 - It has no world model.
-
+   
 - It is just picking the next token, based on probability - not correctness.
 
 
@@ -590,6 +590,9 @@
   + https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
   
 
+- OpenAI's Atlas shrugs off inevitability of prompt injection, releases AI browser anyway
+  + https://www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/
+
 
 ### Articles: LLM Poisoning Attacks
 
@@ -863,3 +866,8 @@
   + Inventor of ‘Vibe Coding’ Says Vibe Coding Can’t Cut It 
     * https://gizmodo.com/even-the-inventor-of-vibe-coding-says-vibe-coding-cant-cut-it-2000672821
 
+
+## Useful Checklists
+
+- How to spot a GenAI Grifters
+  + https://www.linkedin.com/posts/activity-7240740860387098624-zMWf/
