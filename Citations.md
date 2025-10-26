@@ -869,5 +869,5 @@
 
 ## Useful Checklists
 
-- How to spot a GenAI Grifters
+- How to spot GenAI Grifters
   + https://www.linkedin.com/posts/activity-7240740860387098624-zMWf/
