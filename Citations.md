@@ -602,6 +602,11 @@
   + https://brave.com/blog/comet-prompt-injection/
 
 
+- “ChatGPT Tainted Memories:” LayerX Discovers The First Vulnerability in OpenAI Atlas Browser, Allowing Injection of Malicious Instructions into ChatGPT
+https://layerxsecurity.com/blog/layerx-identifies-vulnerability-in-new-chatgpt-atlas-browser/
+
+
+
 
 ### Articles: LLM Poisoning Attacks
 
@@ -668,6 +673,7 @@
 
 - Instagram's AI Chatbots Lie About Being Licensed Therapists
   + https://www.404media.co/instagram-ai-studio-therapy-chatbots-lie-about-being-licensed-therapists/
+
 
 ### Articles: LLM Safety Risks
 
