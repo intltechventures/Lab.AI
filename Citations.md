@@ -675,6 +675,12 @@ https://layerxsecurity.com/blog/layerx-identifies-vulnerability-in-new-chatgpt-a
   + https://www.404media.co/instagram-ai-studio-therapy-chatbots-lie-about-being-licensed-therapists/
 
 
+- HBS: Emotional Manipulation by AI Companions
+  + https://www.hbs.edu/faculty/Pages/item.aspx?num=67750
+    * "Julian De Freitas is an Assistant Professor of Business Administration in the Marketing Unit, and Director of the Ethical Intelligence Lab, at Harvard Business School. He earned his PhD in psychology from Harvard, masters from Oxford, and BA from Yale."
+    * https://www.hbs.edu/ris/Publication%20Files/Emotional%20Manipulations%20by%20AI%20Companions%20(10.1.2025)_a7710ca3-b824-4e07-88cc-ebc0f702ec63.pdf
+
+
 ### Articles: LLM Safety Risks
 
 - OpenAI updated its safety framework—but no longer sees mass manipulation and disinformation as a critical risk
