@@ -905,7 +905,7 @@
 
 Questions folks should ponder:
 
-1. Is the quality of the LLM/GenAI's output under your strict control?  
+1. Is the quality of the LLM/GenAI's output under your strict quality control?  
 
 
 2. How quickly would you detect if there was a significant degrade in the quality of the output?  
