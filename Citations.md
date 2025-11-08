@@ -898,3 +898,35 @@
 
 - How to spot GenAI Grifters
   + https://www.linkedin.com/posts/activity-7240740860387098624-zMWf/
+
+
+
+## Questions To Ponder
+
+Questions folks should ponder:
+
+1. Is the quality of the LLM/GenAI's output under your strict control?  
+
+
+2. How quickly would you detect if there was a significant degrade in the quality of the output?  
+
+
+3. After integrating such a capability across the enterprise - how difficult would it be to immediately swap it out - if a major quality/reliability issue developed?   
+
+
+4. As the quantity of AI-generated slop on the internet increases - what is the risk that the foundation models begin to show signs of Model Collapse?   
+
+
+5. How susceptible is an LLM/GenAI's underlying model to poisoning?   
+
+
+6. What are the security risks of relying on a third-party LLM/GenAI being compromised?   
+
+
+7. It may work well now, but how secure/reliable is the prospect of future releases?   
+
+
+8. Given that most LLM/GenAI providers are not profitable, do you have a plan (and have you tested it) - should that company cease operations?    
+
+
+
