@@ -920,10 +920,10 @@ Questions folks should ponder:
 5. How susceptible is an LLM/GenAI's underlying model to poisoning?   
 
 
-6. What are the security risks of relying on a third-party LLM/GenAI being compromised?   
+6. What are the security risks of relying on a third-party LLM/GenAI - that may be compromised, in the future?   
 
 
-7. It may work well now, but how secure/reliable is the prospect of future releases?   
+7. It may work well now, but how secure/reliable is the prospect of future releases of the LLM/GenAI - over which you have no say in the QA process?   
 
 
 8. Given that most LLM/GenAI providers are not profitable, do you have a plan (and have you tested it) - should that company cease operations?    
