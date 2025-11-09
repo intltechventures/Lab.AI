@@ -307,6 +307,8 @@
 - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
   + https://arxiv.org/abs/2507.09089
     * "Before starting tasks, developers forecast that allowing AI will reduce completion time by 24%. After completing the study, developers estimate that allowing AI reduced completion time by 20%. Surprisingly, we find that allowing AI actually increases completion time by 19%--AI tooling slowed developers down. This slowdown also contradicts predictions from experts in economics (39% shorter) and ML (38% shorter)."
+    * Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+      * https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
 
 
 
