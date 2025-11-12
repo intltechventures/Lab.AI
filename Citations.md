@@ -137,6 +137,13 @@
   + https://www.youtube.com/watch?v=e8EkcLyx_H4
 
 
+### Wolfram, Stephen
+
+- What is ChatGPT doing...and why does it work?
+	+ https://www.youtube.com/watch?v=flXrLGPY3SU
+
+
+
 ## Governance and Oversight Organizations
 
 - The Midas Project
