@@ -484,7 +484,15 @@
     * "Large language model (LLM) assistants are increasingly integrated into enterprise workflows, raising new security concerns as they bridge internal and external data sources. This paper presents an in-depth case study of EchoLeak (CVE-2025-32711), a zero-click prompt injection vulnerability in Microsoft 365 Copilot that enabled remote, unauthenticated data exfiltration via a single crafted email. By chaining multiple bypasses-evading Microsofts XPIA (Cross Prompt Injection Attempt) classifier, circumventing link redaction with reference-style Markdown, exploiting auto-fetched images, and abusing a Microsoft Teams proxy allowed by the content security policy-EchoLeak achieved full privilege escalation across LLM trust boundaries without user interaction. We analyze why existing defenses failed, and outline a set of engineering mitigations including prompt partitioning, enhanced input/output filtering, provenance-based access control, and strict content security policies. Beyond the specific exploit, we derive generalizable lessons for building secure AI copilots, emphasizing the principle of least privilege, defense-in-depth architectures, and continuous adversarial testing. Our findings establish prompt injection as a practical, high-severity vulnerability class in production AI systems and provide a blueprint for defending against future AI-native threats."
 
 
+- Quantifying the Risk of Transferred Black Box Attacks
+  + https://arxiv.org/abs/2511.05102
+
+
 ### Papers: Agentic AI Risks
+
+- AI's Golden Agent Problem
+  + There are good reasons to think the Agentic version of Golden Ticket - Golden Agent will be worse 
+  + https://defensiblesystems.substack.com/p/ais-golden-agent-problem
 
 
 - TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks (December 2024)
