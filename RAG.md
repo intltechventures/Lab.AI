@@ -22,6 +22,42 @@
     * "The worst case outcome of this limitation is that the model may combine details from multiple sources producing responses that merge outdated and updated information in a misleading manner."
 
 
+## Suggested Background Reading
+
+### RAG Development & Optimization (10 Part Series)
+   
+1. RAG Performance Optimization Engineering Practice: Implementation Guide Based on LangChain
+  + https://dev.to/jamesli/rag-performance-optimization-engineering-practice-implementation-guide-based-on-langchain-34ej   
+    
+2. Optimizing RAG Indexing Strategy: Multi-Vector Indexing and Parent Document Retrieval
+  + https://dev.to/jamesli/optimizing-rag-indexing-strategy-multi-vector-indexing-and-parent-document-retrieval-49hf   
+   
+3. RAG Retrieval Performance Enhancement Practices: Detailed Explanation of Hybrid Retrieval and Self-Query Techniques
+  + https://dev.to/jamesli/rag-retrieval-performance-enhancement-practices-detailed-explanation-of-hybrid-retrieval-and-self-query-techniques-59ja   
+   
+4. Comprehensive Performance Optimization for RAG Applications: Six Key Stages from Query to Generation
+  + https://dev.to/jamesli/comprehensive-performance-optimization-for-rag-applications-six-key-stages-from-query-to-generation-851   
+   
+5. In-Depth Understanding of RAG Query Transformation Optimization: Multi-Query, Problem Decomposition, and Step-Back
+  + https://dev.to/jamesli/in-depth-understanding-of-rag-query-transformation-optimization-multi-query-problem-decomposition-and-step-back-27jg   
+   
+6. RAG Application Optimization Strategies: From Document Processing to Retrieval Techniques
+  + https://dev.to/jamesli/rag-application-optimization-strategies-from-document-processing-to-retrieval-techniques-46p   
+   
+7. Customizing LangChain Components: Building a Personalized RAG Application
+  + https://dev.to/jamesli/customizing-langchain-components-building-a-personalized-rag-application-21bl   
+   
+8. Detailed Explanation of LangChain's Vector Storage and Retrieval Technology
+  + https://dev.to/jamesli/detailed-explanation-of-langchains-vector-storage-and-retrieval-technology-1jfh   
+   
+9. Introduction to RAG Application Development: Comprehensive Analysis of LangChain Document Processing
+	+ https://dev.to/jamesli/in-depth-understanding-of-langchains-document-splitting-technology-2p50   
+   
+10. In-Depth Understanding of LangChain's Document Splitting Technology
+  + https://dev.to/jamesli/in-depth-understanding-of-langchains-document-splitting-technology-46mk   
+
+
+
 ## Risks & Limitations 
 
 - RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models
@@ -43,6 +79,10 @@
 
 ### Hybrid RAG
 
+- What is hybrid search?
+  + https://www.elastic.co/what-is/hybrid-search
+
+
 - Hybrid Retrieval: The Architectural Backbone Behind Reliable AI Systems
   * https://aakashsharan.com/hybrid-retrieval/
   * https://medium.com/@akisharan/hybrid-retrieval-the-architectural-backbone-behind-reliable-ai-systems-96cd74bfa042
@@ -51,6 +91,13 @@
 
 - Efficient and Effective Retrieval of Dense-Sparse Hybrid Vectors using Graph-based Approximate Nearest Neighbor Search
   + https://arxiv.org/abs/2410.20381
+
+- Balancing the Blend: An Experimental Analysis of Trade-offs in Hybrid Search 
+  + https://arxiv.org/abs/2508.01405
+
+
+- Hybrid Retrievers: Fusion Models
+  + https://www.emergentmind.com/topics/hybrid-retrievers
 
 
 - Building effective hybrid search in OpenSearch: Techniques and best practices
@@ -63,6 +110,10 @@
 
 - Hybrid search using vectors and full text in Azure AI Search
   * https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview
+
+
+- Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing
+  + https://www.sciencedirect.com/science/article/pii/S1474034625001053
 
 
 ### Agentic RAG 
