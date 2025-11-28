@@ -441,6 +441,18 @@
 
 ### Papers: Cybersecurity & Privacy Risks
 
+- Forced Descent: Google Antigravity Persistent Code Execution Vulnerability
+  + https://mindgard.ai/blog/google-antigravity-persistent-code-execution-vulnerability
+
+
+- From Prompt to Pwn: Cline Bot AI Coding Agent Vulnerabilities
+  + https://mindgard.ai/resources/cline-coding-agent-vulnerabilities
+
+
+- LLM07:2025 System Prompt Leakage
+  + https://genai.owasp.org/llmrisk/llm072025-system-prompt-leakage/
+
+
 - TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems
   + https://arxiv.org/abs/2506.04133
 
@@ -486,6 +498,9 @@
 
 - Quantifying the Risk of Transferred Black Box Attacks
   + https://arxiv.org/abs/2511.05102
+
+
+  
 
 
 ### Papers: Agentic AI Risks
