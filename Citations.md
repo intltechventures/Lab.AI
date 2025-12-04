@@ -407,6 +407,14 @@
   + https://doi.org/10.1098/rsos.241776
 
 
+### Papers: Cognitive Debt, Loss of Cognitive Abilities
+
+- Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+  + https://arxiv.org/abs/2506.08872
+    * ```Caution: "A total of 54 participants took part in Sessions 1-3, with 18 completing session 4." - this study does not appear to be statistically meaningful.```
+
+
+
 ### Papers: Code Generation Risks 
 
 - We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs
