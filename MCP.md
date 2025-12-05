@@ -34,14 +34,22 @@
 
 
 
-## Security Risks
+## Security 
+
+### Security: Authentication
+
+
+
+### Security: Risks
 
 - OWASP MCP Top 10
   + https://owasp.org/www-project-mcp-top-10/
 
 
 
-### Articles
+
+
+### Security: Articles
 
 - The State of MCP Security
   + https://www.pynt.io/blog/llm-security-blogs/state-of-mcp-security
@@ -64,7 +72,7 @@
     * https://medium.com/kagenti-the-agentic-platform/security-in-and-around-mcp-part-3-mcp-server-identity-10d6768d96c1
 
 
-### Papers 
+### Security: Papers 
 
 - Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms
   + https://arxiv.org/abs/2507.06323
@@ -75,7 +83,7 @@
 
 
 
-### Vulnerabilities 
+### Security: Vulnerabilities 
 
 - CVE-2025-6514: OS command injection in mcp-remote when connecting to untrusted MCP servers
   + https://www.cve.org/CVERecord?id=CVE-2025-6514
@@ -86,10 +94,24 @@
 
 ## YouTube Videos
 
-### Microsoft Developer Channel:
+### YouTube: Microsoft Developer Channel
 
 - MCP Dev Days: Day 1 - DevTools
   + https://www.youtube.com/watch?v=8-okWLAUI3Q
 
+
+
+## Suggested Books
+
+
+
+
+## Interesting Articles 
+
+### 2025 
+
+- Easy, Secure Dynamic Client Registration for MCP & AI Agents
+  + https://tailscale.com/blog/dynamic-client-registration-dcr-for-mcp-ai
+  + Re: https://www.linkedin.com/feed/update/urn:li:ugcPost:7402036921532633088/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287402038232601038848%2Curn%3Ali%3AugcPost%3A7402036921532633088%29	
 
 
