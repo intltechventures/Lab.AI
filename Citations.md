@@ -523,6 +523,10 @@
     * See Fig. 8: Risk Severity Index scores for candidate LLMs across all harm topics, page-40 
 
 
+- Forced Descent: Google Antigravity Persistent Code Execution Vulnerability
+  + https://mindgard.ai/blog/google-antigravity-persistent-code-execution-vulnerability
+
+
 ### Papers: Prompt Injection Risks
 
 - EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System
@@ -533,8 +537,6 @@
 - Quantifying the Risk of Transferred Black Box Attacks
   + https://arxiv.org/abs/2511.05102
 
-
-  
 
 
 ### Papers: Agentic AI Risks
