@@ -68,6 +68,9 @@
 ## Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
+  + "Artificial Analysis is an independent AI benchmarking & analysis company. We provide independent benchmarks & analysis to support developers, researchers, businesses, and other users of AI"
+  + https://artificialanalysis.ai/methodology
+  + https://artificialanalysis.ai/documentation
 
 
 - https://www.swebench.com/#verified
