@@ -400,6 +400,17 @@
 
 
 
+### Papers: National Security Risks
+
+- Safety Co-Option and Compromised National Security: The Self-Fulfilling Prophecy of Weakened AI Risk Thresholds
+  + https://arxiv.org/abs/2504.15088
+
+
+- Prohibiting Generative AI in any Form of Weapon Control
+  + https://neurips.cc/virtual/2025/loc/san-diego/poster/121921
+
+
+
 ### Papers: Benchmark Cheating Risks 
 
 - Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates  
