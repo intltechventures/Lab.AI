@@ -311,6 +311,19 @@
   + https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.513474/full
 
 
+- AI as Artificial Ignorance
+  + https://www.sciencedirect.com/science/article/pii/S266672152500033X
+  + Journal of Project Leadership and Society (PLAS), Volume 6, December 2025, 100208
+  + https://doi.org/10.1016/j.plas.2025.100208
+  + "First, we present a number of simple tests of AI, which document a profound gap between the hype and the reality of AI. Second, we explain the gap in terms of a confusion of artificial general intelligence with generative artificial intelligence in the promotion of AI. Finally, we analyze AI as bullshit (in the strong philosophical sense of Harry Frankfurt). We find that AI and bullshit are similar in the sense that both prioritize rhetoric over truth. They mix true, false, and ambiguous statements in ways that make it difficult to distinguish which is which. AI sounds convincing even when it's wrong. As such, current AI is more about persuasion than about truth. This is a problem because it means AI produces faulty and ignorant results. For now, we need to be highly skeptical of AI for its lack of a concept of truth."
+
+
+- On the Fundamental Limits of LLMs at Scale
+  + https://arxiv.org/abs/2511.12869
+  + "Large Language Models (LLMs) have benefited enormously from scaling, yet these gains are bounded by five fundamental limitations: (1) hallucination, (2) context compression, (3) reasoning degradation, (4) retrieval fragility, and (5) multimodal misalignment. While existing surveys describe these phenomena empirically, they lack a rigorous theoretical synthesis connecting them to the foundational limits of computation, information, and learning. This work closes that gap by presenting a unified, proof-informed framework that formalizes the innate theoretical ceilings of LLM scaling. First, computability and uncomputability imply an irreducible residue of error: for any computably enumerable model family, diagonalization guarantees inputs on which some model must fail, and undecidable queries (e.g., halting-style tasks) induce infinite failure sets for all computable predictors. Second, information-theoretic and statistical constraints bound attainable accuracy even on decidable tasks, finite description length enforces compression error, and long-tail factual knowledge requires prohibitive sample complexity. Third, geometric and computational effects compress long contexts far below their nominal size due to positional under-training, encoding attenuation, and softmax crowding. We further show how likelihood-based training favors pattern completion over inference, how retrieval under token limits suffers from semantic drift and coupling noise, and how multimodal scaling inherits shallow cross-modal alignment. Across sections, we pair theorems and empirical evidence to outline where scaling helps, where it saturates, and where it cannot progress, providing both theoretical foundations and practical mitigation paths like bounded-oracle retrieval, positional curricula, and sparse or hierarchical attention."
+
+
+
 
 ### Papers: Productivity Impact 
 
