@@ -672,6 +672,7 @@
     * https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/
 
 
+
 ### Articles: Costs
 
 - Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
@@ -757,6 +758,12 @@
   + https://www.linkedin.com/posts/alshalloway_are-we-teaching-the-internet-to-eat-itself-activity-7322050576710565888-Iu2S
   + https://clairva.ai/journal/guarding-future-ai-authenticated-knowledge
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
+
+
+- 2025-12-12 Fri post on LinkedIn, by Dr. Mok (Senior Manager, National Council of Social Service (NCSS))[https://www.linkedin.com/in/dandylion72/]
+  + "When You Code AI, You See Why Hallucinations Can’t Be Fixed...
+  + https://www.linkedin.com/feed/update/urn:li:activity:7404369279522906113/
+
 
 
 ### Articles: Pscyhological Risks, Creation Delusions and Psychosis in Users
