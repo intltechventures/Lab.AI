@@ -1,7 +1,7 @@
 
 # LLM/GenAI Citations
 
-- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks associated with usage of LLMs/GenAI tools.
+- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.
 - __Status__: ```Work-In-Progress```
 
 
@@ -760,8 +760,8 @@
   + https://venturebeat.com/ai/generative-inbreeding-and-its-risk-to-human-culture/
 
 
-- 2025-12-12 Fri post on LinkedIn, by Dr. Mok (Senior Manager, National Council of Social Service (NCSS))[https://www.linkedin.com/in/dandylion72/]
-  + "When You Code AI, You See Why Hallucinations Can’t Be Fixed...
+- 2025-12-12 Fri post on LinkedIn, by [Dr. Mok](https://www.linkedin.com/in/dandylion72/), Senior Manager, National Council of Social Service (NCSS)
+  + "When You Code AI, You See Why Hallucinations Can’t Be Fixed..."
   + https://www.linkedin.com/feed/update/urn:li:activity:7404369279522906113/
 
 
