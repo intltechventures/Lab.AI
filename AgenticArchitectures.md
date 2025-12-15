@@ -4,6 +4,24 @@
 ## Refereences
 
 
+- https://github.com/jim-schwoebel/awesome_ai_agents
+
+
+
+## Newsletters
+
+- https://agents.blog/HomePage
+
+
+## Thought Leaders
+
+- Schwoebel, Jim 
+  + Co-Founder/CEO, Quome 
+  + https://www.linkedin.com/in/jimschwoebel/
+  + https://www.linkedin.com/company/quome/
+
+
+
 ## Articles
 
 
