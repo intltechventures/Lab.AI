@@ -1020,7 +1020,7 @@
 
 - Michael Truell (CEO and cofounder, Cursor)
   + Cursor CEO warns vibe coding builds ‘shaky foundations’ and eventually ‘things start to crumble’
-    * htps://fortune.com/2025/12/25/cursor-ceo-michael-truell-vibe-coding-warning-generative-ai-assistant/
+    * https://fortune.com/2025/12/25/cursor-ceo-michael-truell-vibe-coding-warning-generative-ai-assistant/
       * Truell described vibe coding as a method where users "close your eyes and you don't look at the code at all and you just ask the AI to go build the thing for you." He compared it to constructing a house by putting up four walls and a roof without understanding the underlying wiring or floorboards. The approach might work for quickly mocking up a game or website, but more advanced projects face real risks.
       * "If you close your eyes and you don't look at the code and you have AIs build things with shaky foundations as you add another floor, and another floor, and another floor, and another floor, things start to kind of crumble," Truell said. Truell and three fellow MIT graduates created Cursor in 2022. The tool embeds AI directly into the integrated development environment and uses the context of existing code to predict the next line, generate functions, and debug errors. The difference, as Truell frames it, is that programmers stay engaged with what's happening under the hood rather than flying blind.
 
