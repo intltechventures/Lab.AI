@@ -750,7 +750,7 @@
 
 
 - AI Hallucinations Create “Slopsquatting” Supply Chain Threat
-+ https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/
+  + https://www.infosecurity-magazine.com/news/ai-hallucinations-slopsquatting/
 
 
 - OpenAI’s new reasoning AI models hallucinate more
@@ -773,6 +773,10 @@
   + "When You Code AI, You See Why Hallucinations Can’t Be Fixed..."
   + https://www.linkedin.com/feed/update/urn:li:activity:7404369279522906113/
 
+
+- 2025-12-24 Zero hallucination is a marketing sentence, not a technical achievement. 
+  + https://ai.plainenglish.io/zero-hallucination-is-a-marketing-sentence-not-a-technical-achievement-db78f5ac8ca8
+  + Re: https://www.linkedin.com/posts/gavin-tam-35621923_aihallucination-aisafety-aialignment-activity-7409386754790805504-Cc-l
 
 
 ### Articles: Pscyhological Risks, Creation Delusions and Psychosis in Users
