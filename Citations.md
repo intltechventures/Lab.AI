@@ -1,7 +1,8 @@
 
 # LLM/GenAI Citations
 
-- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.
+- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
+   
 - __Status__: ```Work-In-Progress```
 
 
@@ -922,6 +923,13 @@
 
 
 
+### Articles: Agentic Risks
+
+- A Security Engineer's Guide to the A2A Protocol
+  + https://semgrep.dev/blog/2025/a-security-engineers-guide-to-the-a2a-protocol/
+
+
+
 ## Interesting YouTube Talks
 
 - Roger Penrose 
@@ -1034,8 +1042,6 @@
 
 
 ## Questions To Ponder
-
-Questions folks should ponder:
 
 1. Is the quality of the LLM/GenAI's output under your strict quality control?  
 
