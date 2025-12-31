@@ -834,6 +834,12 @@
   + https://fortune.com/2025/04/16/openai-safety-framework-manipulation-deception-critical-risk/
 
 
+### Articles: LLMs/GenAI Education Risks
+
+- Why We’re Not Using AI in This Course, Despite Its Obvious Benefits
+  + https://emergingethics.substack.com/p/why-were-not-using-ai-in-this-course
+
+
 
 ### Articles: Copyright Infringement 
 
