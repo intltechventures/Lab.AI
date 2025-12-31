@@ -157,7 +157,7 @@
 
 
 
-## Governance and Oversight Organizations
+## Safety, Governance, Regulations, and Oversight Organizations
 
 - The Midas Project
   + "The Midas Project is a watchdog collective of activists taking action to ensure that AI technology benefits everyone."
@@ -168,6 +168,22 @@
   + "The Tech Oversight Project is charged with holding Big Tech accountable for its anti-competitive and corrupting influence on our society and the levers of power."
   + https://techoversight.org/
   
+
+- International AI Safety Report 
+  + https://internationalaisafetyreport.org/
+  + 2025 Report
+    * International AI Safety Report 2025 (2025-01-29)
+      * https://internationalaisafetyreport.org/publication/international-ai-safety-report-2025
+    * __First Key Update: Capabilities and Risk Implications (2025-10-15 updates)__
+      * https://internationalaisafetyreport.org/publication/first-key-update-capabilities-and-risk-implications
+      * https://internationalaisafetyreport.org/sites/default/files/2025-10/first-key-update_0.pdf
+    * __Second Key Update: Technical Safeguards and Risk Management (2025-11-25  updates)__
+      * https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management
+      * https://internationalaisafetyreport.org/sites/default/files/2025-12/second-key-update-english.pdf
+  + 2026 Report 
+    * Note: The release of the full 2026 International AI Safety Report is due in February 2026. 
+
+
 
 ## AI Risk Categories
 
