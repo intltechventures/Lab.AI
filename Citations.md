@@ -51,30 +51,6 @@
   + https://rails.legal/resources/resource-ai-orders/
 
 
-## AI Ethics & Safety Reports
-
-- [Future of Life Institute](https://futureoflife.org/)
-  + https://futureoflife.org/about-us/our-people/
-  + https://futureoflife.org/about-us/finances/
-    * "FLI is a mission-driven nonprofit and continually aims to diversify its funding. Shortly after we were founded in 2014, Elon Musk funded the world’s first academic grant program in AI safety. Since those early days, we have received over 1,500 donations of various sizes from a wide variety of donors to fund our programs."
-    * "In 2021, computer programmer Vitalik Buterin provided FLI with a large and unconditional donation that in part serves as an endowment and helps to guarantee our independence."
-    * "With the exception of Jaan Tallinn, who has served on FLI’s Board of Directors since its founding, donors do not influence FLI’s positions. Vitalik Buterin, our largest donor by far, has no formal or informal role in our decision-making. FLI does not accept donations from Big Tech, or from companies seeking to build artificial general intelligence."
-  + [AI Safety Index, Summer 2025](https://futureoflife.org/wp-content/uploads/2025/07/FLI-AI-Safety-Index-Report-Summer-2025.pdf)
-
-
-- [Wharton Generative AI Labs](https://gail.wharton.upenn.edu/)
-  + Call Me A Jerk: Persuading AI to Comply with Objectionable Requests
-    + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357179
-    + https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/
-    + https://www.geekwire.com/2025/sweet-talk-the-bots-new-research-shows-how-llms-respond-to-human-persuasion-tricks/
-
-
-- [DataEthics.eu](https://dataethics.eu/)
-  + "A not for profit politically independent ThinkDoTank based in Denmark with a European (and global) outreach."
-  + "The purpose of DataEthics is to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia."
-
-
-
 ## Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
@@ -117,6 +93,8 @@
 
 
 - https://www.wolfram.com/llm-benchmarking-project/
+  + ___THIS IS IMPORTANT___👆
+  + Note the last column, ```Correct Functionality```
 
 
 ## Video Talks
@@ -157,7 +135,29 @@
 
 
 
-## Safety, Governance, Regulations, and Oversight Organizations
+## Ethics, Safety, Governance, Regulations, Watchdogs, and Oversight Organizations
+
+
+- [Future of Life Institute](https://futureoflife.org/)
+  + https://futureoflife.org/about-us/our-people/
+  + https://futureoflife.org/about-us/finances/
+    * "FLI is a mission-driven nonprofit and continually aims to diversify its funding. Shortly after we were founded in 2014, Elon Musk funded the world’s first academic grant program in AI safety. Since those early days, we have received over 1,500 donations of various sizes from a wide variety of donors to fund our programs."
+    * "In 2021, computer programmer Vitalik Buterin provided FLI with a large and unconditional donation that in part serves as an endowment and helps to guarantee our independence."
+    * "With the exception of Jaan Tallinn, who has served on FLI’s Board of Directors since its founding, donors do not influence FLI’s positions. Vitalik Buterin, our largest donor by far, has no formal or informal role in our decision-making. FLI does not accept donations from Big Tech, or from companies seeking to build artificial general intelligence."
+  + [AI Safety Index, Summer 2025](https://futureoflife.org/wp-content/uploads/2025/07/FLI-AI-Safety-Index-Report-Summer-2025.pdf)
+
+
+- [Wharton Generative AI Labs](https://gail.wharton.upenn.edu/)
+  + Call Me A Jerk: Persuading AI to Comply with Objectionable Requests
+    + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357179
+    + https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/
+    + https://www.geekwire.com/2025/sweet-talk-the-bots-new-research-shows-how-llms-respond-to-human-persuasion-tricks/
+
+
+- [DataEthics.eu](https://dataethics.eu/)
+  + "A not for profit politically independent ThinkDoTank based in Denmark with a European (and global) outreach."
+  + "The purpose of DataEthics is to ensure the human value in a world of data, based on a European legal and value-based framework. We do so by focusing on collecting, creating and communicating knowledge about data ethics in close interaction with international institutions, organisations and academia."
+
 
 - The Midas Project
   + "The Midas Project is a watchdog collective of activists taking action to ensure that AI technology benefits everyone."
