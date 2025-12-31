@@ -1,12 +1,12 @@
 
 # LLM/GenAI Citations
 
-- This document is intended as a *suggested background reading punchlist*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
+- This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
    
 - __Status__: ```Work-In-Progress```
 
 
-## Remember
+## Introduction: Remember
 
 - It hallucinates because of the underlying LLM architecture.
 - It is performing per its design.
@@ -24,7 +24,7 @@
 
 
 
-## References 
+## References: General Background Reading 
 
 - https://en.wikipedia.org/wiki/Stochastic
 
@@ -37,7 +37,7 @@
 - https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
 
-## AI Hallucinations in Court Cases
+## References: AI Hallucinations in Court Cases
 
 - "An AI hallucination 'occurs when an AI database generates fake sources of information,'... See Wadsworth v. Walmart Inc., 348 F.R.D. 489, 493 (D. Wyo. 2025)."
   + https://www.courtlistener.com/opinion/10591984/garner-v-kadince/
@@ -51,7 +51,7 @@
   + https://rails.legal/resources/resource-ai-orders/
 
 
-## Dashboards & Leaderboards
+## References: Dashboards & Leaderboards
 
 - https://artificialanalysis.ai/
   + "Artificial Analysis is an independent AI benchmarking & analysis company. We provide independent benchmarks & analysis to support developers, researchers, businesses, and other users of AI"
@@ -97,7 +97,7 @@
   + **THIS IS IMPORTANT** 👆
 
 
-## Video Talks
+## References: Video Talks
 
 ### Harris, Tristan
 
@@ -135,7 +135,7 @@
 
 
 
-## Ethics, Safety, Governance, Regulations, Watchdogs, and Oversight Organizations
+## References: Ethics, Safety, Governance, Regulations, Watchdogs, and Oversight Organizations
 
 
 - [Future of Life Institute](https://futureoflife.org/)
@@ -185,7 +185,7 @@
 
 
 
-## AI Risk Categories
+## References: AI Risk Categories
 
 - IBM Risk Atlas Nexus
   + https://ibm.github.io/risk-atlas-nexus/
@@ -838,7 +838,7 @@
 
 - Why We’re Not Using AI in This Course, Despite Its Obvious Benefits
   + https://emergingethics.substack.com/p/why-were-not-using-ai-in-this-course
-
+    * Prof. Patrick Lin is a philosopher at Cal Poly, San Luis Obispo, where he runs the Ethics + Emerging Sciences Group.
 
 
 ### Articles: Copyright Infringement 
@@ -952,7 +952,7 @@
 
 
 
-## Interesting YouTube Talks
+## Interesting: YouTube Talks
 
 - Roger Penrose 
   + Gödel's theorem debunks the most important AI myth. AI will not be conscious | Roger Penrose (Nobel)
@@ -991,7 +991,7 @@
 
 
 
-## Noteworthy LinkedIn Posts
+## Interesting: Noteworthy LinkedIn Posts
 
 - [Stephen Wolfram](https://www.linkedin.com/in/stephenwolfram/):
   + Re: Hallucinations...
@@ -1034,7 +1034,7 @@
 
 
 
-## Vibe Coding Bullshit
+## Interesting: Vibe Coding Bullshit
 
 - Vibe Graveyard 
   + https://vibegraveyard.ai/
@@ -1056,14 +1056,14 @@
 
 
 
-## Useful Checklists
+## Humor: Useful Checklists
 
 - How to spot GenAI Grifters
   + https://www.linkedin.com/posts/activity-7240740860387098624-zMWf/
 
 
 
-## Questions To Ponder
+## Conclusion: Questions To Ponder
 
 1. Is the quality of the LLM/GenAI's output under your strict quality control?  
 
