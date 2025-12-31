@@ -94,7 +94,7 @@
 
 - https://www.wolfram.com/llm-benchmarking-project/
   + Note the last column, ```Correct Functionality```
-  + __THIS IS IMPORTANT__👆
+  + **THIS IS IMPORTANT** 👆
 
 
 ## Video Talks
