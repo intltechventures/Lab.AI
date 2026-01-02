@@ -698,6 +698,10 @@
     * https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/
 
 
+- AI as artificial ignorance
+  + https://www.sciencedirect.com/science/article/pii/S266672152500033X
+  + https://doi.org/10.1016/j.plas.2025.100208 
+
 
 ### Articles: Costs
 
