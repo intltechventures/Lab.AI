@@ -991,12 +991,17 @@
 
 
 
-## Interesting: Noteworthy LinkedIn Posts
+## Interesting: Noteworthy Social Media (e.g., LinkedIn, Twitter, ...)
 
 - [Stephen Wolfram](https://www.linkedin.com/in/stephenwolfram/):
   + Re: Hallucinations...
   + https://www.linkedin.com/posts/stephenwolfram_what-do-you-call-it-when-you-believe-something-activity-7324178239667539968-GjHi/
     * "It just happened to me 🤨. The paper-length math looked convincing (well, after I told the LLM to fix some mistakes) ... and the references (including to my own writings!) were so plausible I started to look them up. But oops 🫠"
+
+
+- Nassim Nicholas Taleb
+  + https://x.com/nntaleb/status/1759234709949710753
+    * "VERDICT ON ChatGPT, It is ONLY useable if you know the subject very, very well.  It makes embarrassing mistakes that only a connoisseur can detect."
 
 
 - [Andrew Nicholson](https://www.linkedin.com/in/digitalmarketingdiva/):
