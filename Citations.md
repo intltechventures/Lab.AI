@@ -138,6 +138,12 @@
 ## References: Ethics, Safety, Governance, Regulations, Watchdogs, and Oversight Organizations
 
 
+- [Center for Countering Digital Hate](https://counterhate.com/)
+  + 2025-08-06 Fake Friend, How ChatGPT betrays vulnerable teens by encouraging dangerous behavior
+    * https://counterhate.com/research/fake-friend-chatgpt/
+    * CCDH's new research shows that ChatGPT is betraying young people by generating dangerous advice about self-harm and suicide, eating disorders and substance abuse.
+
+
 - [Future of Life Institute](https://futureoflife.org/)
   + https://futureoflife.org/about-us/our-people/
   + https://futureoflife.org/about-us/finances/
