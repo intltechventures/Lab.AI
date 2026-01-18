@@ -1101,10 +1101,14 @@
   + https://spectrum.ieee.org/ai-coding-degrades
 
 
-## Humor: Useful Checklists
+## Humor
 
-- How to spot GenAI Grifters
+- A checkclist: How to spot GenAI Grifters
   + https://www.linkedin.com/posts/activity-7240740860387098624-zMWf/
+
+
+- Reddit Thread: AI Fails 
+  + https://www.reddit.com/r/aifails/
 
 
 
