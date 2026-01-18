@@ -218,6 +218,14 @@
 
 ## Papers
 
+### Papers: Risks to Democracy
+
+- How AI Destroys Institutions
+  + Woodrow Hartzog, Boston University School of Law; Stanford Law School Center for Internet and Society
+  + Jessica M. Silbey, Boston University - School of Law
+  + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623
+
+
 
 ### Papers: Illusions of Thinking and Agency Risks
 
@@ -451,6 +459,12 @@
 
 
 ### Papers: Copyright Infringement Risks
+
+- Extracting books from production language models (2026-01-06)
+  + https://arxiv.org/abs/2601.02671
+  + AI’s Memorization Crisis (2026-01-09)
+    * https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/
+
 
 - Extracting memorized pieces of (copyrighted) books from open-weight language models
   + https://arxiv.org/abs/2505.12546
@@ -709,11 +723,20 @@
   + https://doi.org/10.1016/j.plas.2025.100208 
 
 
+### Articles: Risks of Cognitive Decline
+
+- Is AI a Cognitive Trojan Horse?
+  + https://www.futureofbeinghuman.com/p/is-ai-a-cognitive-trojan-horse
+
+
 ### Articles: Costs
 
 - Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
   + https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
 
+
+- AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention (2026-01-05)
+  + ttps://www.theregister.com/2026/01/05/aws_price_increase/
 
 
 ### Articles: On Whether LLMs are Sentient
@@ -961,6 +984,10 @@
   + https://semgrep.dev/blog/2025/a-security-engineers-guide-to-the-a2a-protocol/
 
 
+- Cursor's latest "browser experiment" implied success without evidence 
+  + https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+
 
 ## Interesting: YouTube Talks
 
@@ -1069,6 +1096,9 @@
       * Truell described vibe coding as a method where users "close your eyes and you don't look at the code at all and you just ask the AI to go build the thing for you." He compared it to constructing a house by putting up four walls and a roof without understanding the underlying wiring or floorboards. The approach might work for quickly mocking up a game or website, but more advanced projects face real risks.
       * "If you close your eyes and you don't look at the code and you have AIs build things with shaky foundations as you add another floor, and another floor, and another floor, and another floor, things start to kind of crumble," Truell said. Truell and three fellow MIT graduates created Cursor in 2022. The tool embeds AI directly into the integrated development environment and uses the context of existing code to predict the next line, generate functions, and debug errors. The difference, as Truell frames it, is that programmers stay engaged with what's happening under the hood rather than flying blind.
 
+
+- AI Coding Assistants Are Getting Worse, Newer models are more prone to silent but deadly failure modes
+  + https://spectrum.ieee.org/ai-coding-degrades
 
 
 ## Humor: Useful Checklists
