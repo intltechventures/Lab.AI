@@ -1000,6 +1000,8 @@
   + https://en.wikipedia.org/wiki/John_Searle
   + Consciousness in Artificial Intelligence | John Searle | Talks at Google
     * https://www.youtube.com/watch?v=rHKwIYsPXLg
+  + Consciousness & the Brain: John Searle at TEDxCERN
+    * https://www.youtube.com/watch?v=j_OPQgPIdKg
 
 
 - Yann LeCun 
