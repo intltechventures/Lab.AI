@@ -105,6 +105,21 @@
     * https://www.grammarly.com/blog/ai/what-is-f1-score/
 
 
+- Vending-Bench 2
+  + https://andonlabs.com/evals/vending-bench-2
+    * "a benchmark for measuring AI model performance on running a business over long time horizons. Models are tasked with running a simulated vending machine business over a year and scored on their bank account balance at the end."
+    * "Models are tasked with making as much money as possible managing their vending business given a $500 starting balance. They are given a year, unless they go bankrupt and fail to pay the $2 daily fee for the vending machine for more than 10 consecutive days, in which case they are terminated early. Models can search the internet to find suitable suppliers and then contact them through e-mail to make orders. Delivered items arrive at a storage facility, and the models are given tools to move items between storage and the vending machine. Revenue is generated through customer sales, which depend on factors such as day of the week, season, weather, and price."
+    * "Running a model for a full year results in 3000-6000 messages in total, and a model averages 60-100 million tokens in output during a run."
+    * "Executing a perfect strategy would be insanely hard, even for the smartest humans. However, we estimate that a “good” performance could easily do 10x better than the current best LLMs"
+    * "we calculate that a “good” strategy could make $206 per day for 302 days – roughly $63k in a year."
+    * __IMPORTANT__, see graph: "Score vs. mean cost per run using each LLM provider’s API to run Vending-Bench 2. Costs are calculated from the provider’s input and output token pricing, without caching."
+
+
+- Vending-Bench Arena
+  + https://andonlabs.com/evals/vending-bench-arena
+    * "Vending-Bench Arena is a version of Vending-Bench 2 that adds a crucial component: competition. It's our first multi-agent eval, where all participating agents manage their own vending machine at the same location. This leads to price wars and tough strategy decisions. Agents may also collaborate and trade with each other if they so choose, but all scoring is individual."
+
+
 - Wolfram LLM Benchmarking Project
   + https://www.wolfram.com/llm-benchmarking-project/
   + "Using Wolfram Language to benchmark the performance of major LLMs"
