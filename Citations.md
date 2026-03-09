@@ -2,8 +2,10 @@
 # LLM/GenAI Citations
 
 - This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
-   
+       
 - __Status__: ```Work-In-Progress```
+- __Last Updated__: 2026-03-09 Monday
+
 
 
 ## Introduction: Remember
@@ -37,7 +39,8 @@
 - https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
 
-## References: AI Hallucinations in Court Cases
+
+## References: Generative AI in Court Cases
 
 - "An AI hallucination 'occurs when an AI database generates fake sources of information,'... See Wadsworth v. Walmart Inc., 348 F.R.D. 489, 493 (D. Wyo. 2025)."
   + https://www.courtlistener.com/opinion/10591984/garner-v-kadince/
@@ -49,6 +52,16 @@
 
 - Responsible AI In Legal Services (RAILS), Analysis of AI Use in Courts
   + https://rails.legal/resources/resource-ai-orders/
+
+
+- Judges Find AI Doesn't Have Human Intelligence in Two New Court Cases 
+  + https://www.yahoo.com/news/articles/hiltzik-two-court-cases-judges-110000907.html
+
+
+- Sentenced by Algorithm
+  + https://www.nybooks.com/articles/2021/06/10/prison-terms-sentenced-by-algorithm/
+  + "Computer programs used to predict recidivism and determine prison terms have a high error rate, a secret design, and a demonstrable racial bias."
+
 
 
 ## References: Dashboards & Leaderboards
@@ -92,8 +105,16 @@
     * https://www.grammarly.com/blog/ai/what-is-f1-score/
 
 
-- https://www.wolfram.com/llm-benchmarking-project/
+- Wolfram LLM Benchmarking Project
+  + https://www.wolfram.com/llm-benchmarking-project/
+  + "Using Wolfram Language to benchmark the performance of major LLMs"
   + Note the last column, ```Correct Functionality```
+  + **THIS IS IMPORTANT** 👆
+
+
+- SonarSource Analysis: LLM Leaderboard for Code Quality & Security
+  + https://www.sonarsource.com/the-coding-personalities-of-leading-llms/leaderboard/
+  + "Analysis based on 4,444 distinct Java programming assignments across multiple benchmark datasets. Evaluating code quality, security, and maintainability."
   + **THIS IS IMPORTANT** 👆
 
 
@@ -128,10 +149,17 @@
   + https://www.youtube.com/watch?v=e8EkcLyx_H4
 
 
+
 ### Wolfram, Stephen
 
 - What is ChatGPT doing...and why does it work?
 	+ https://www.youtube.com/watch?v=flXrLGPY3SU
+
+
+
+### Wooldridge, Michael John
+  + This is not the AI we were promised | The Royal Society
+    * https://www.youtube.com/watch?v=CyyL0yDhr7I
 
 
 
@@ -191,6 +219,16 @@
 
 
 
+- The Pro-Human AI Declaration
+  + https://humanstatement.org/
+    1. Keeping Humans in Charge
+    2. Avoiding Concentration of Power
+    3. Protecting the Human Experience
+    4. Human Agency and Liberty
+    5. Responsibility and Accountability for AI Companies
+
+
+
 ## References: AI Risk Categories
 
 - IBM Risk Atlas Nexus
@@ -224,6 +262,7 @@
   + Woodrow Hartzog, Boston University School of Law; Stanford Law School Center for Internet and Society
   + Jessica M. Silbey, Boston University - School of Law
   + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623
+
 
 
 
@@ -375,6 +414,17 @@
 
 
 
+- HBR: AI-Generated “Workslop” Is Destroying Productivity (2025-09-22)
+  + https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity
+
+
+
+- HBR: When Using AI Leads to “Brain Fry” (2026-03-05)
+  + "A new study finds that certain patterns of AI use are driving cognitive fatigue, while others can help reduce burnout"
+  + https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry
+
+
+
 ### Papers: Anthropomorphizing Risks
 
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
@@ -480,12 +530,29 @@
   + https://doi.org/10.1098/rsos.241776
 
 
-### Papers: Cognitive Debt, Loss of Cognitive Abilities
+
+### Papers: Cognitive Debt, Loss of Cognitive Abilities, Group Think
 
 - Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
   + https://arxiv.org/abs/2506.08872
     * ```Caution: "A total of 54 participants took part in Sessions 1-3, with 18 completing session 4." - this study does not appear to be statistically meaningful.```
 
+
+- The Mean-Variance Innovation Tradeoff in AI-Augmented Evaluations (January 22, 2026-01-22)
+  + https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5933495
+    * "Evaluating and selecting among numerous alternative solutions shapes the trajectory and rate of innovation. Central to this process is a fundamental tension between novelty and feasibility that evaluators, operating under bounded rationality, cannot consider simultaneously and therefore rely on heuristics to guide their evaluations. A common heuristic is criteria-sequencing, in which evaluators prioritize alternative criteria at different evaluation stages. Yet, the idiosyncratic ways evaluators sequence these criteria often introduce inconsistencies, creating significant path dependencies in the process"
+    * "Leveraging a field experiment with 353 evaluators, we investigate how the sequencing of AI recommendations focusing on novelty and feasibility shapes the mean and variance of innovation among selected solutions. Our results reveal a mean–variance innovation tradeoff: a feasibility-then-novelty sequence leads to selections with higher mean innovation, whereas a novelty-then-feasibility sequence yields selections with greater innovation variance."
+      
+    
+- AI is turning research into a scientific monoculture (February 23, 2026-02-23)
+  + https://www.nature.com/articles/s44271-026-00428-5
+    * "Generative AI deserves scientific attention. But the rush to study it is producing a feedback loop of topical and methodological convergence, flattening scientific imagination and crowding out the pluralism needed to keep research adaptive, resilient, and intellectually generative."
+
+
+- The Factory and the Forest, The Metaphors We Inherit
+  + https://innovatingoutloud.substack.com/p/the-factory-and-the-forest
+    * "In the last 45 days, research from some of the most trusted institutions in the world has surfaced a pattern revealing the AI mismatch:"
+    * "A Carnegie Mellon study found that AI explanations don’t match AI reasoning 74% of the time.³ The factory produces confident answers it can’t trace back to its own process. That’s not a defective product. That’s a tool being misused."
 
 
 ### Papers: Code Generation Risks 
