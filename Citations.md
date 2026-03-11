@@ -193,6 +193,8 @@
   + 2025-08-06 Fake Friend, How ChatGPT betrays vulnerable teens by encouraging dangerous behavior
     * https://counterhate.com/research/fake-friend-chatgpt/
     * CCDH's new research shows that ChatGPT is betraying young people by generating dangerous advice about self-harm and suicide, eating disorders and substance abuse.
+  + 2026-03-11 Killer Apps, How mainstream AI chatbots assist users planning violent attacks
+    * https://counterhate.com/research/killer-apps/
 
 
 - [Future of Life Institute](https://futureoflife.org/)
