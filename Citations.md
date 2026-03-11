@@ -165,6 +165,14 @@
 
 
 
+### Varley, Gwen
+
+- Ethics of ChatGPT and AI (2024)
+  + https://www.youtube.com/watch?v=1ON-FJHq9aM
+    * Video lecture for Rurality, Livelihoods, and Gender at the Swedish University of Agricultural Sciences
+
+
+
 ### Wolfram, Stephen
 
 - What is ChatGPT doing...and why does it work?
