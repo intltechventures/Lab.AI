@@ -1069,6 +1069,12 @@
   + https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
 
 
+- The Mother of All AI Supply Chains: Critical, Systemic Vulnerability at the Core of Anthropic’s MCP
+  + https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp/
+    * "Anthropic design choice Exposes 150M+ Downloads and up to 200K Servers to complete takeover"
+
+
+
 
 ### Articles: Agentic Risks
 
