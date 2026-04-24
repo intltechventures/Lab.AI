@@ -556,7 +556,7 @@
 
 
 
-### Papers: Cognitive Debt, Loss of Cognitive Abilities, Group Think
+### Papers: Cognitive Debt, Comprehension Debt, Loss of Cognitive Abilities, Group Think
 
 - Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
   + https://arxiv.org/abs/2506.08872
@@ -578,6 +578,11 @@
   + https://innovatingoutloud.substack.com/p/the-factory-and-the-forest
     * "In the last 45 days, research from some of the most trusted institutions in the world has surfaced a pattern revealing the AI mismatch:"
     * "A Carnegie Mellon study found that AI explanations don’t match AI reasoning 74% of the time.³ The factory produces confident answers it can’t trace back to its own process. That’s not a defective product. That’s a tool being misused."
+
+
+- Comprehension Debt: The Hidden Cost of AI-Generated Code
+  + https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/ 
+
 
 
 ### Papers: Code Generation Risks 
