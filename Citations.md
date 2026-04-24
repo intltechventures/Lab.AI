@@ -820,13 +820,22 @@
   + https://doi.org/10.1016/j.plas.2025.100208 
 
 
-### Articles: Risks of Cognitive Decline
+### Articles: Risks of Cognitive Decline, Cognitive Debt, Comprehension Debt
 
 - Is AI a Cognitive Trojan Horse?
   + https://www.futureofbeinghuman.com/p/is-ai-a-cognitive-trojan-horse
 
 
-### Articles: Costs
+- The Big Bang: A.I. Has Created a Code Overload
+  + https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html
+
+
+- How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt
+  + https://margaretstorey.com/blog/2026/02/09/cognitive-debt/
+
+
+
+### Articles: AI Costs, Token Pricing, Vendor Subscription Changes
 
 - Future AI bills of $100k/yr per dev, Token growth indicates future AI spend per dev
   + https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev
@@ -834,6 +843,10 @@
 
 - AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention (2026-01-05)
   + ttps://www.theregister.com/2026/01/05/aws_price_increase/
+
+
+- Anthropic squeezes enterprises by ejecting bundled tokens from seat deal
+  + https://www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/
 
 
 ### Articles: On Whether LLMs are Sentient
@@ -1074,13 +1087,17 @@
   + https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
 
 
+- Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say
+  + https://www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/
+
+
 - The Mother of All AI Supply Chains: Critical, Systemic Vulnerability at the Core of Anthropic’s MCP
   + https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp/
     * "Anthropic design choice Exposes 150M+ Downloads and up to 200K Servers to complete takeover"
 
 
-- How Anthropic’s Model Context Protocol Allows For Easy Remote Execution
-  + https://hackaday.com/2026/04/24/how-anthropics-model-context-protocol-allows-for-easy-remote-execution/
+- The Mother of All AI Supply Chains: Technical Deep Dive
+  + https://www.ox.security/blog/the-mother-of-all-ai-supply-chains-technical-deep-dive/
 
 
 
