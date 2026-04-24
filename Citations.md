@@ -1079,6 +1079,9 @@
     * "Anthropic design choice Exposes 150M+ Downloads and up to 200K Servers to complete takeover"
 
 
+- How Anthropic’s Model Context Protocol Allows For Easy Remote Execution
+  + https://hackaday.com/2026/04/24/how-anthropics-model-context-protocol-allows-for-easy-remote-execution/
+
 
 
 ### Articles: Agentic Risks
