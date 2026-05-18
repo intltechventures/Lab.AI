@@ -886,6 +886,10 @@
   + https://layerxsecurity.com/blog/layerx-identifies-vulnerability-in-new-chatgpt-atlas-browser/
 
 
+- Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection
+  + https://arxiv.org/abs/2604.14604
+    * "... Extensive experiments on 13 state-of-the-art LALMs show consistent hijacking across 6 misbehavior categories, achieving average success rates of 79\%-96\% on unseen user contexts with high acoustic fidelity. Real-world studies demonstrate that commercial voice agents from Mistral AI and Microsoft Azure can be induced to execute unauthorized actions on behalf of users. These findings expose critical vulnerabilities in LALMs and highlight the urgent need for dedicated defense."
+
 
 
 ### Articles: LLM Poisoning Attacks
