@@ -1,5 +1,6 @@
 
-# AI Regultaions - References 
+# AI Regulations - References 
+
 
 ## European Union (EU)
 
