@@ -19,4 +19,10 @@
   + https://www.gov.ca.gov/wp-content/uploads/2026/03/3.30-FINAL-Trusted-AI-Procurement-EO-N-5-26_ATTESTED.pdf
   
 
+### Misc. Tracking Tools
 
+- A Fifty-State AI Legislation Tracker as One Naftiko Capability
+  + https://www.linkedin.com/pulse/fifty-state-ai-legislation-tracker-one-naftiko-capability-kin-lane-kbsqe/
+  + https://openlaws.us/api/
+    * https://github.com/api-evangelist/openlaws/blob/main/capabilities/manage-openlaw-capability.yaml
+      * "Searches the OpenLaws Legal Data API (https://api.openlaws.us) for artificial intelligence legislation across all 50 U.S. state jurisdictions."
