@@ -46,16 +46,20 @@
   + https://www.courtlistener.com/opinion/10591984/garner-v-kadince/
     * See Background, item 2.
 
+
 - AI Hallucination Cases
   + https://www.damiencharlotin.com/hallucinations/
-    * "This database tracks legal decisions in cases where generative AI produced hallucinated content – typically fake citations, but also other types of AI-generated arguments. It does not track the (necessarily wider) universe of all fake citations or use of AI in court filings."
+    * "This database tracks ```legal decisions``` in cases where generative AI produced hallucinated content – typically fake citations, but also other types of AI-generated arguments. It does not track the (necessarily wider) universe of all fake citations or use of AI in court filings."
+
 
 - Responsible AI In Legal Services (RAILS), Analysis of AI Use in Courts
   + https://rails.legal/resources/resource-ai-orders/
 
 
+
 - Judges Find AI Doesn't Have Human Intelligence in Two New Court Cases 
   + https://www.yahoo.com/news/articles/hiltzik-two-court-cases-judges-110000907.html
+
 
 
 - Sentenced by Algorithm
