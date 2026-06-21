@@ -4,7 +4,7 @@
 - This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
        
 - __Status__: ```Work-In-Progress```
-- __Last Updated__: 2026-03-09 Monday
+- __Last Updated__: 2026-06-21 Sunday
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-## References: Dashboards & Leaderboards
+## References: Benchmarks, Dashboards & Leaderboards
 
 - LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price
   + https://llm-stats.com/
@@ -141,6 +141,16 @@
   + https://www.sonarsource.com/the-coding-personalities-of-leading-llms/leaderboard/
   + "Analysis based on 4,444 distinct Java programming assignments across multiple benchmark datasets. Evaluating code quality, security, and maintainability."
   + **THIS IS IMPORTANT** 👆
+
+
+- OpenAI: LifeSciBench
+  + https://openai.com/index/introducing-life-sci-bench/
+  + Papers:
+    * LifeSciBench: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences
+      * https://cdn.openai.com/pdf/b4299379-0a97-4ffa-8b9b-c3fbb299caa9/lifescibench_preprint.pdf
+      * ""GPT-Rosalind performs best with a problem-weighted normalized score of 0.576 and a 36.1% task pass rate, but the benchmark remains far from saturated: no model passes 171 tasks (22.8%), and 261 tasks (34.8%) have a best-model pass rate below 20%"
+      * https://nerds.xyz/2026/06/openai-exposed-how-bad-ai-still-is-at-real-science/
+
 
 
 ## References: Video Talks
