@@ -1225,6 +1225,16 @@
 
 
 
+
+## Interesting: Product-Specific Warnings
+
+- Microsoft Excel
+  + COPILOT funciton: 
+    * https://support.microsoft.com/en-us/excel/functions/copilot-function
+      * "... best suited for scenarios where deterministic accuracy is not required, ..."
+      
+
+
 ## Interesting: Vibe Coding Bullshit
 
 - Vibe Graveyard 
