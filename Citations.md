@@ -130,6 +130,13 @@
     * "Vending-Bench Arena is a version of Vending-Bench 2 that adds a crucial component: competition. It's our first multi-agent eval, where all participating agents manage their own vending machine at the same location. This leads to price wars and tough strategy decisions. Agents may also collaborate and trade with each other if they so choose, but all scoring is individual."
 
 
+- BEAVER: An Enterprise Benchmark for Text-to-SQL
+  + https://arxiv.org/abs/2409.02038
+    * "_The performance of off-the-shelf LLMs on existing text-to-SQL benchmarks seems to suggest strong performance. However, these benchmarks do not reflect real-world enterprise settings and thus do not reflect the performance of LLMs on enterprise queries over enterprise databases. The enterprise setting differs from existing public settings as it includes unseen domain-specific knowledge, a large number of tables that require an intermediate retrieval stage, and higher levels of query and schema complexity. Our results show that enterprise queries bring significant challenges to off-the-shelf models regarding table retrieval and SQL generation._"
+  + https://peterbaile.github.io/beaver/
+  + https://github.com/peterbaile/beaver
+
+
 - Wolfram LLM Benchmarking Project
   + https://www.wolfram.com/llm-benchmarking-project/
   + "Using Wolfram Language to benchmark the performance of major LLMs"
