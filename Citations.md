@@ -720,6 +720,7 @@
 - Robust AI Security and Alignment: A Sisyphean Endeavor? 
   + https://arxiv.org/abs/2512.10100
     * "This manuscript establishes information-theoretic limitations for robustness of AI security and alignment by extending Gödel's incompleteness theorem to AI. Knowing these limitations and preparing for the challenges they bring is critically important for the responsible adoption of the AI technology. Practical approaches to dealing with these challenges are provided as well. Broader implications for cognitive reasoning limitations of AI systems are also proven."
+  + https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update
   + https://ieeexplore.ieee.org/abstract/document/11475847
   + https://www.linkedin.com/feed/update/urn:li:share:7470187916540071937/
     * "The core finding: No finite set of guardrails is universally robust against adversarial prompts."
