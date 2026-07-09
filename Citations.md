@@ -160,6 +160,13 @@
 
 
 
+- agent-cost-bench (re: AWS)
+  + https://github.com/aws-samples/sample-agent-cost-bench
+    * "_Benchmark framework that measures cost, quality, and duration of coding agents across any AI Coding Assistant CLI, any model, and any use case — with pluggable verification and real-repo support._"
+    * License: MIT
+
+
+
 ## References: Video Talks
 
 ### Harris, Tristan
