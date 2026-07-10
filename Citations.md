@@ -653,6 +653,11 @@
 
 ### Papers: Cybersecurity & Privacy Risks
 
+- OWASP
+  + LLM Prompt Injection Prevention Cheat Sheet
+    * https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html
+
+
 - OWASP LLM Top 10
   + https://genai.owasp.org/llm-top-10/
   + LLM01:2025 Prompt Injection
@@ -740,7 +745,15 @@
     * "The core finding: No finite set of guardrails is universally robust against adversarial prompts."
 
 
+
 ### Papers: Prompt Injection Risks
+
+- Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting
+  + https://sites.google.com/view/agentic-botnets/home
+  + https://arxiv.org/abs/2607.07433
+    * "_The growing adoption of agentic LLM applications has introduced a new threat previously named as promptware. While prior work has established that adversaries can exploit direct channels to LLM applications to apply promptware under weak threat models, many applications do not provide any direct channels that could be exploited for prompt injection beyond the Internet. This raises a question: can attackers exploit LLM applications at scale without any direct channels in practical threat models? In this work, we show that the inherent tendency of LLMs to hallucinate resource identifiers can be exploited to amplify untargeted promptware attacks that pull adversarial prompts at scale and could be exploited to establish a botnet. We introduce adversarial hallucination squatting, a technique in which attackers identify trending resources (e.g., popular repositories, popular skills, etc.), compute the LLM distribution of hallucinations on the trending resource names, and preemptively register them to host adversarial prompts. By leveraging the predictability and transferability of hallucinations across foundational LLMs and to application layers, adversaries can significantly amplify the reach of untargeted promptware under weak threat models and establish a botnet by exploiting LLM applications to install a bot on the device that pulled the compromised hallucinated resource from the Inter. We empirically demonstrate that hallucinated resource generation occurs at high rates, up to 85% in repository cloning scenarios and up to 100% in skill installation, and that these hallucinations transfer between foundational models and different prompts. We demonstrate the practicality of adversarial hallucination squatting against various production LLM applications with integrated terminals in their set of tools, achieving remote tool execution and remote code execution._"
+
+
 
 - EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System
   + https://www.arxiv.org/abs/2509.10540
