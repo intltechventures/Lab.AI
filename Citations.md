@@ -39,6 +39,14 @@
 - https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
 
 
+## AI Data Centers
+
+- Brockovich AI Data Center Reporting
+  + https://www.brockovichdatacenter.com/
+  + **Key Concerns with AI Data Centers**
+    https://www.brockovichdatacenter.com/#concerns
+
+    
 
 ## References: Generative AI in Court Cases
 
