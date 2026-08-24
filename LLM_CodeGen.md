@@ -79,8 +79,14 @@
   + [How I Built a Production App with Claude Code](https://leadershiplighthouse.substack.com/p/how-i-built-a-production-app-with)
 
 
+- [Diogo Baeder](https://www.linkedin.com/in/diogobaeder/)
+  + Done With Agentic Coding
+    + https://www.linkedin.com/pulse/done-agentic-coding-diogo-baeder-vqexf/
+    + https://www.linkedin.com/posts/diogobaeder_on-dramatic-changes-ugcPost-7496884948713488385-Uv4o/
+
+
 - AI Engineer, June 2025 
   + Dex Horthy
-    * [No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)
+    * YouTube: [No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)
 
 
