@@ -4,7 +4,7 @@
 - This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
        
 - __Status__: ```Work-In-Progress```
-- __Last Updated__: 2026-06-21 Sunday
+- __Last Updated__: 2026-08-25 Tuesday
 
 
 
@@ -624,6 +624,11 @@
 
 - Comprehension Debt: The Hidden Cost of AI-Generated Code
   + https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/ 
+
+
+- The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models
+  + https://arxiv.org/abs/2502.11266
+    * "_Language is far more than a communication tool. A wealth of information - including but not limited to the identities, psychological states, and social contexts of its users - can be gleaned through linguistic markers, and such insights are routinely leveraged across diverse fields ranging from product development and marketing to healthcare. In four studies utilizing experimental and observational methods, we demonstrate that the widespread adoption of large language models (LLMs) as writing assistants is linked to notable declines in linguistic diversity and may interfere with the societal and psychological insights language provides. We show that while the core content of texts is retained when LLMs polish and rewrite texts, not only do they homogenize writing styles, but they also alter stylistic elements in a way that selectively amplifies certain dominant characteristics or biases while suppressing others - emphasizing conformity over individuality. By varying LLMs, prompts, classifiers, and contexts, we show that these trends are robust and consistent. Our findings highlight a wide array of risks associated with linguistic homogenization, including compromised diagnostic processes and personalization efforts, the exacerbation of existing divides and barriers to equity in settings like personnel selection where language plays a critical role in assessing candidates' qualifications, communication skills, and cultural fit, and the undermining of efforts for cultural preservation._"
 
 
 
@@ -1273,10 +1278,19 @@
 ## Interesting: Product-Specific Warnings
 
 - Microsoft Excel
-  + COPILOT funciton: 
+  + COPILOT function: 
     * https://support.microsoft.com/en-us/excel/functions/copilot-function
       * "... best suited for scenarios where deterministic accuracy is not required, ..."
-      
+    * **2026-08-17 COPILOT function to be removed from Excel**
+      * RM499659 - Excel: =COPILOT Function
+        * https://mc.merill.net/message/RM499659
+        * "_We have decided not to move forward with this feature. We apologize for the inconvenience._"
+      * Excel's Copilot function is headed for the Recycle Bin
+        * https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327
+          * "_Microsoft will retire Excel's COPILOT() function on September 14, barely a year after its preview debut._"
+          * "_Introduced in August 2025, initially for Beta Channel users with a Microsoft 365 Copilot license and later for Excel for the web users through the Frontier program, the COPILOT() function let users send instructions to the company's AI assistant directly from a worksheet cell._"
+      * MC1454373 - Frontier =COPILOT function in Excel will no longer be available
+        * https://mc.merill.net/message/MC1454373
 
 
 ## Interesting: Vibe Coding Bullshit
