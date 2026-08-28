@@ -3,8 +3,8 @@
 
 - This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
        
-- __Status__: ```Work-In-Progress```
-- __Last Updated__: 2026-08-25 Tuesday
+- **Status**: ```Work-In-Progress```
+- **Last Updated**: 2026-08-27 Thursday
 
 
 
@@ -107,8 +107,8 @@
 
 
 - Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots
-  + https://lmarena.ai/?leaderboard
-    * "Chatbot Arena is an open platform for crowdsourced AI benchmarking, developed by researchers at UC Berkeley SkyLab and LMArena. With over 1,000,000 user votes, the platform ranks best LLM and AI chatbots using the Bradley-Terry model to generate live leaderboards"
+  + https://arena.ai/leaderboard
+    * "_Created by researchers from UC Berkeley, Arena (formerly LMArena) is a community-powered platform for understanding AI performance in the real world. Tens of millions of builders, researchers, and creative professionals come to Arena to use frontier models and give feedback on their responses, shaping a public leaderboard grounded in real-world use._"
     * Paper: [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)
     * https://en.wikipedia.org/wiki/Elo_rating_system
 
