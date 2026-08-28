@@ -78,6 +78,11 @@
 
 ## References: Benchmarks, Dashboards & Leaderboards
 
+- https://artificialanalysis.ai/
+  + "_Independent analysis of AI_"
+  + "_Understand the AI landscape to choose the best model and provider for your use case_"
+
+
 - LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price
   + https://llm-stats.com/
   + https://llm-stats.com/leaderboards/llm-leaderboard
