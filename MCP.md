@@ -7,8 +7,16 @@
   + https://modelcontextprotocol.io/docs/getting-started/intro
   + https://modelcontextprotocol.io/specification/
     * https://modelcontextprotocol.io/specification/2025-06-18
+    * The **2026-07-28 Specification**
+      * https://blog.modelcontextprotocol.io/posts/2026-07-28/
+      * https://modelcontextprotocol.io/specification/2026-07-28/architecture
+      * https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
+      * https://github.com/modelcontextprotocol/modelcontextprotocol/tree/main/schema/2026-07-28
+        * https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/schema/2026-07-28/schema.ts    
+    
+    
+- https://github.com/modelcontextprotocol/modelcontextprotocol     
 
-- https://github.com/modelcontextprotocol/modelcontextprotocol
 
 - https://github.com/modelcontextprotocol/registry
   + https://github.com/modelcontextprotocol/registry/tree/main/docs
