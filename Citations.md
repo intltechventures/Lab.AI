@@ -500,7 +500,7 @@
 ### Papers: Anthropomorphizing Risks
 
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!
-  + https://arxiv.org/abs/2504.09762
+  + https://arxiv.org/abs/2504.09762v4
     * ```See v4 (lastest version, revised 2026-06-09)```
 
 
