@@ -1227,7 +1227,7 @@
 
 
 - Karen Hao
-  + What OpenAI Doesn't Want You To Know About AI Psychosis
+  + We Investigated Al Psychosis. What We Found Will Shock You
     * https://www.youtube.com/watch?v=zkGk_A4noxI
 
 
