@@ -33,9 +33,18 @@
       * https://www.imda.gov.sg/assets/63438074-73f6-4dcc-a281-030f42642cf4.pdf
 
 
+
 ## News Items
 
 ### 2026
+
+- 2026-07-01: UN Independent International Scientific Panel on AI, Preliminary Report 
+  + https://www.un.org/independent-international-scientific-panel-ai/en
+    * https://www.un.org/independent-international-scientific-panel-ai/en/preliminary-report
+    *  https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-07/en_Preliminary%20Report_.pdf
+    *  "_The United Nations General Assembly established the Independent International Scientific Panel on Artificial Intelligence in Resolution A/RES/79/325, following intergovernmental negotiations and broad consultations with diverse stakeholders._"
+
+
 
 - 2026-09-02 NASCIO urges Congress to reauthorize grant program and address AI governance
   + https://www.scworld.com/brief/nascio-urges-congress-to-reauthorize-key-grant-program-and-address-ai-governance
