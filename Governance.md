@@ -36,6 +36,13 @@
 
 ## News Items
 
+### 2025
+
+- 2025-08-26: Resolution A/RES/79/325 Adopted 
+  + https://www.un.org/global-digital-compact/en/ai
+  + "_On 26 August 2025, the United Nations General Assembly established the Independent International Scientific Panel on Artificial Intelligence and the Global Dialogue on Artificial Intelligence Governance in Resolution A/RES/79/325, following intergovernmental negotiations and broad consultations with diverse stakeholders._"
+
+
 ### 2026
 
 - 2026-07-01: UN Independent International Scientific Panel on AI, Preliminary Report 
