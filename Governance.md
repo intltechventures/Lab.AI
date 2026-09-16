@@ -32,3 +32,11 @@
     * MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI
       * https://www.imda.gov.sg/assets/63438074-73f6-4dcc-a281-030f42642cf4.pdf
 
+
+## News Items
+
+### 2026
+
+- 2026-09-02 NASCIO urges Congress to reauthorize grant program and address AI governance
+  + https://www.scworld.com/brief/nascio-urges-congress-to-reauthorize-key-grant-program-and-address-ai-governance
+
