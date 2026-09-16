@@ -1,5 +1,19 @@
 
 # AI Regulations - References 
+   
+Note: Also see [Governance.md](Governance.md)   
+   
+   
+    
+## International Standards 
+
+### ISO 
+
+- ISO/IEC 42001   
+  + "_ISO/IEC 42001 is an international standard that specifies requirements for establishing, implementing, maintaining, and continually improving an Artificial Intelligence Management System (AIMS) within organizations. It is designed for entities providing or utilizing AI-based products or services, ensuring responsible development and use of AI systems._"
+  + https://www.iso.org/standard/42001
+    * https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html
+
 
 
 ## European Union (EU)
@@ -11,6 +25,30 @@
 
 
 ## United States 
+
+### Federal 
+
+- National Artificial Intelligence Initiative Act of 2020 (P.L. 116-283)
+  + https://www.congress.gov/116/plaws/publ283/PLAW-116publ283.pdf
+  + H.R.6216 - National Artificial Intelligence Initiative Act of 2020 
+    * https://www.congress.gov/bill/116th-congress/house-bill/6216
+  
+   
+
+### National Institute of Standards (NIST)
+ 
+- NIST AI Risk Management Framework (RMF)
+  + https://airc.nist.gov/
+  + https://www.nist.gov/itl/ai-risk-management-framework
+    * https://airc.nist.gov/airmf-resources/airmf/
+    * https://airc.nist.gov/airmf-resources/playbook/
+    * https://www.nist.gov/itl/ai-risk-management-framework/roadmap-nist-artificial-intelligence-risk-management-framework-ai
+    * 
+      * "_Developed following the National Artificial Intelligence Initiative Act of 2020 (P.L. 116-283), NIST’s AI Risk Management Framework (AI RMF) is a voluntary framework to help individuals, organizations, and society manage AI’s risks and promote trustworthy development and responsible use of AI systems._"
+      * https://www.nist.gov/artificial-intelligence/ai-congressional-mandates-executive-orders-and-actions 
+  + https://www.nist.gov/video/introduction-nist-ai-risk-management-framework-ai-rmf-10-explainer-video
+
+
 
 ### CA - California
 

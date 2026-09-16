@@ -1,5 +1,8 @@
 
-# AI Governance 
+# AI Governance    
+    
+Note: Also see [Regulations.md](Regulations.md)
+
 
 ## Country-Specific 
 
