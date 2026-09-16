@@ -43,7 +43,13 @@
   + "_On 26 August 2025, the United Nations General Assembly established the Independent International Scientific Panel on Artificial Intelligence and the Global Dialogue on Artificial Intelligence Governance in Resolution A/RES/79/325, following intergovernmental negotiations and broad consultations with diverse stakeholders._"
 
 
+
 ### 2026
+
+- 2026-06-25: Why Amazon hates 'human-in-the-loop' AI governance (TheRegister.com)
+  + https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639
+
+
 
 - 2026-07-01: UN Independent International Scientific Panel on AI, Preliminary Report 
   + https://www.un.org/independent-international-scientific-panel-ai/en
