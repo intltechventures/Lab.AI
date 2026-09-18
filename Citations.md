@@ -529,12 +529,24 @@
 
 ### Papers: Model Collapse Risks
 
+- https://en.wikipedia.org/wiki/Model_collapse
+
 - Self-Consuming Generative Models Go MAD
   + https://arxiv.org/abs/2307.01850
 
 
-- The Curse of Recursion: Training on Generated Data Makes Models Forget
-  + https://arxiv.org/abs/2305.17493
+- The Curse of Recursion: Training on Generated Data Makes Models Forget (v3, April 14, 2024)
+  + https://arxiv.org/abs/2305.17493v3
+
+
+- A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective (v3, December 25, 2025)
+  + https://arxiv.org/abs/2509.16499v3 
+
+
+- Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs (v5, June 17, 2026)
+  + https://arxiv.org/abs/2507.04219v5
+
+
 
 
 ### Papers: Multi-turn and Long-Context Risks 
