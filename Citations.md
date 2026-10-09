@@ -3,8 +3,9 @@
 
 - This document is intended as a *suggested background reading punch list*...to help teams quickly develop an understanding of the risks and limitations associated with usage of LLMs/GenAI tools.   
        
-- **Status**: ```Work-In-Progress```
-- **Last Updated**: 2026-08-27 Thursday
+
+- **Status**: ```Ongoing...```
+- **Last Updated**: 2026-10-08 Thursday
 
 
 
@@ -798,6 +799,23 @@
 - The Hidden Dangers of Browsing AI Agents
   + https://arxiv.org/abs/2505.13076
   + "Autonomous browsing agents powered by large language models (LLMs) are increasingly used to automate web-based tasks. However, their reliance on dynamic content, tool execution, and user-provided data exposes them to a broad attack surface. This paper presents a comprehensive security evaluation of such agents, focusing on systemic vulnerabilities across multiple architectural layers. Our work outlines the first end-to-end threat model for browsing agents and provides actionable guidance for securing their deployment in real-world environments. To address discovered threats, we propose a defense in depth strategy incorporating input sanitization, planner executor isolation, formal analyzers, and session safeguards. These measures protect against both initial access and post exploitation attack vectors. Through a white box analysis of a popular open source project, Browser Use, we demonstrate how untrusted web content can hijack agent behavior and lead to critical security breaches."
+
+
+
+### Papers: Stochastic Parrots
+
+- On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021-03-01)
+  + https://dl.acm.org/doi/10.1145/3442188.3445922
+  + Authors: Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell
+  + FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency Pages 610 - 623
+  + https://doi.org/10.1145/3442188.3445922
+  + **Abstract**: "_The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models._"
+
+
+- Stochastic Parrots: Frequently Unasked Questions (2026-05-12)
+  + https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11
+  + Author: Emily M. Bender
+  + Re: https://www.linkedin.com/posts/david-reed-82811b19_this-new-paper-by-emily-bender-talking-about-share-7514041478239887360-JgKn/
 
 
 ### Papers: Agentic AI Risks
