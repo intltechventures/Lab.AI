@@ -925,6 +925,18 @@
   + https://doi.org/10.1016/j.plas.2025.100208 
 
 
+
+### Articles: Context Failure Risks
+
+- Your CLI docs are too long. Claude stopped reading them (2026-09-15)
+  + https://www.confidentcommit.com/p/your-cli-docs-are-too-long-claude
+  + by [Pete Steyert-Woods](https://www.linkedin.com/in/pete-woods/)
+  + Re: https://www.linkedin.com/feed/update/urn:li:activity:7505687864719024128/
+    * "_That’s when I noticed Claude was running `circleci run trigger --help | head -40` — only looking at the first 40 lines!_"
+    
+
+
+
 ### Articles: Risks of Cognitive Decline, Cognitive Debt, Comprehension Debt
 
 - Is AI a Cognitive Trojan Horse?
