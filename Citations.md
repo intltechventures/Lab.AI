@@ -896,7 +896,8 @@
   + https://arxiv.org/abs/2508.21036
 
 
-## Articles
+## Articles: The Illusions of Understanding 
+
 
 - The Illusion of Understanding
   + https://www.linkedin.com/pulse/illusion-understanding-ivo-boniolo-7fbcf/
@@ -904,6 +905,12 @@
 
 - The Nuremberg Defense of AI
   + https://copin43.hashnode.dev/the-nuremberg-defense-of-ai
+
+
+- [Martin Milani](https://www.linkedin.com/in/martinmilani/)
+  + 2026-05-05 LinkedIn: The Illusion of Reasoning, Why Modern AI’s “Chains of Thought” Are Not Thought 
+    * https://www.linkedin.com/pulse/illusion-reasoning-why-modern-ais-chains-thought-martin-milani-u1q5f/
+
 
 
 - [Stuart Rimell](https://www.linkedin.com/in/stuartrimell/): 
@@ -916,7 +923,7 @@
 
 
 - [Gerben Wierda](https://www.linkedin.com/in/gerbenwierda/): 
-  + When ChatGPT summarises, it actually does nothing of the kind.
+  + 2024-05-27: When ChatGPT summarises, it actually does nothing of the kind.
     * https://ea.rna.nl/2024/05/27/when-chatgpt-summarises-it-actually-does-nothing-of-the-kind/
 
 
