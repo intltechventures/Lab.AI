@@ -1354,6 +1354,29 @@
   + https://spectrum.ieee.org/ai-coding-degrades
 
 
+## Suggested Books
+
+### Emily M. Bender, Alex Hanna
+
+- The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want (2025-05-13)
+  + https://thecon.ai/
+  + https://www.amazon.com/AI-Fight-Techs-Create-Future/dp/0063418568
+  
+
+### Cory Doctorow
+
+- The Reverse Centaur's Guide to Life After AI (2026-06-23)
+  + https://www.amazon.com/Reverse-Centaurs-Guide-Life-After/dp/037462156X/
+
+
+### Karen Hao
+
+- Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI (2026-05-19)
+  + https://www.amazon.com/Empire-AI-Dreams-Nightmares-Altmans/dp/0593657527
+
+
+
+
 ## Humor
 
 - A checkclist: How to spot GenAI Grifters
